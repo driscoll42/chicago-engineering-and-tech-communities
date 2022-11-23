@@ -87,6 +87,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Chicago Power BI User Group](https://www.meetup.com/chicagolandpowerbi/)
 - 	[Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref)
 - 	[Chicago SAS® Meetup](https://www.meetup.com/chicago-sas-meetup/)
+-  [Chicago R-Ladies Group](https://www.meetup.com/rladies-chicago/)
 - 	[Chicago ServiceNow Developers Meetup](https://www.meetup.com/chicago-servicenow-developers-meetup/)
 - 	[Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)
 - 	[Chicago Tech Founders and Finance Leaders](https://www.meetup.com/chicago-tech-founders-and-finance-leaders/)
