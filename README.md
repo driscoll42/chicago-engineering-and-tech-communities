@@ -4,11 +4,11 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 
 # Navigation
- - [Diversity Focused](#diversity-focused)
  - [Non-Tech Organizations/Groups/Communities](#non-tech-organizationsgroupscommunities)
+ - [Diversity Focused](#diversity-focused)
  - [Tech Organizations/Groups/Communities](#tech-organizationsgroupscommunities)
- - [Incubators/Accelerators](#incubatorsaccelerators)
  - [Non-Profit/Volunteer](#non-profitvolunteer)
+ - [Incubators/Accelerators](#incubatorsaccelerators)
  - [Hackerspaces](#hackerspaces)
  - [Universities](#universities)
 
