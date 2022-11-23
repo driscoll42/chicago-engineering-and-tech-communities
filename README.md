@@ -1,11 +1,7 @@
 # Chicago Engineering Communities and Organizations
 
-Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago focused! A consolidated list of Chicago Engineering Communities and organizations. 
+Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago focused! A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings.
 
-
-
-To find jobs in Chicago, I *highly* recommend checking out Built In Chicago: https://www.builtinchicago.org/ Great resource for finding internships/jobs/etc...
-Note: Built In Chicago is part of a larger network, so if you go to the site there's Built In Seattle, Built In San Francisco, and others, not just limited to Chicagoland
 
 # Navigation
  - [Diversity Focused](#diversity-focused)
