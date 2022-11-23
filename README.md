@@ -69,7 +69,6 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 
 #### General Others
-- 	[Chi Hack Night](https://chihacknight.org/)
 - 	[Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
 - 	[Chicago #learntocode](https://www.meetup.com/chicago-learntocode/)
 - 	[Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
@@ -111,6 +110,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Everyone Can Code Chicago](https://www.eccchicago.org/)
 - 	[Code for Chicago]( https://codeforchicago.org/)
 - 	[ACE (Architecture, Construction, Engineering) Mentor Program Chicago](https://acementorchicago.org/)
+- 	[Chi Hack Night](https://chihacknight.org/)
 
 
 ## Incubators/Accelerators
