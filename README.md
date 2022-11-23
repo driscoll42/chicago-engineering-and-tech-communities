@@ -1,121 +1,124 @@
-# chicago-engineering-communities
+# Chicago Engineering Communities and Organizations
 
-Inspired by https://github.com/thisdot/tech-community-slacks but Chicago focused!
-A consolidated list of Chicago Engineering Communities and organizations
+Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago focused! A consolidated list of Chicago Engineering Communities and organizations. 
 
-# Navigation
- - [Diversity Focused](#diversity-focused)
- - [Non-Tech Organizations/Groups/Communities](#nontech-organizationsgroupscommunities)
- - [Tech Organizations/Groups/Communities](#tech-organizationsgroupscommunities)
- - [Incubators/Accelerators](#incubatorsaccelerators)
- - [Non-Profit/Volunteer](#nonprofitvolunteer)
- - [Hackerspaces](#hackerspaces)
- - [Universities](#universities)
-
-
-### Non-Tech Organizations/Groups/Communities
-
-### Tech Organizations/Groups/Communities
-
-### Diversity Focused
 
 
 To find jobs in Chicago, I *highly* recommend checking out Built In Chicago: https://www.builtinchicago.org/ Great resource for finding internships/jobs/etc...
 Note: Built In Chicago is part of a larger network, so if you go to the site there's Built In Seattle, Built In San Francisco, and others, not just limited to Chicagoland
 
+# Navigation
+ - [Diversity Focused](#diversity-focused)
+ - [Non-Tech Organizations/Groups/Communities](#non-tech-organizationsgroupscommunities)
+ - [Tech Organizations/Groups/Communities](#tech-organizationsgroupscommunities)
+ - [Incubators/Accelerators](#incubatorsaccelerators)
+ - [Non-Profit/Volunteer](#non-profitvolunteer)
+ - [Hackerspaces](#hackerspaces)
+ - [Universities](#universities)
 
+
+### Non-Tech Organizations/Groups/Communities
+  By Non-Tech what is mean is non-Computer Science/Software/Data focused organizations
+- 	[AIChE (American Institute of Chemical Engineers) ](https://www.aiche.org/community/sites/local-sections/chicago)	
+- 	[American Nuclear Society - Chicago Section](https://local.ans.org/chicago/)	
+- 	[American Public Works Association (APWA) - Chicago Chapter](http://chicago.apwa.net/)	
+- 	[American Society of Civil Engineers](https://www.isasce.org/)	
+- 	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.ispechicago.com/)	
+- 	[Illuminating Engineering Society](https://ieschicago.org/)	
+- 	[Information Systems Audit and Control Association-Chicago Chapter](https://engage.isaca.org/chicagochapter/home)	
+- 	[Institute of Transportation Engineers (ITE) Illinois](https://www.ilite.org/)	
+- 	[Society of American Military Engineers (SAME) Chicago](https://samechicago.org/)	
+- 	[Society of Automotive Engineers (SAE) Chicago](https://chicagosae.org/)	
+- 	[Society of Casualty Safety Engineers](https://scsechicago.org/)	
+- 	[Structural Engineers Association of Illinois (SEAOI)](https://seaoi.org/)	
+
+
+### Diversity Focused
+   Generally organizations focused on promoting diversity in various fields of engineering and allowing for connections between those groups.
+- 	[Society of Hispanic Professional Engineers (SHPE) - Region 6](https://shpe.org/membership/regions/region-6/)
+- 	[Society of Women Engineers (SWE) - Chicago](https://chicago.swe.org/)
+- 	[National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
+- 	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
+- 	[Chicago Women in Tech](https://chiwomenintech.com/)
+- 	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
+- 	[P33 Chicago](https://p33chicago.com/)
+
+### Tech Organizations/Groups/Communities
 - [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
    - This is a tech community focused in Chicago, good resource to network and visit the job boards		
 - [Chicago Python User Group](https://www.chipy.org/)
 - [Chicago Chapter of ACM](http://www.chicagoacm.org/)		
 - [IEEE Chicago](https://ieeechicago.org/)
-
-- 	[APWA (American Public Works Association) - Chicago Chapter](http://chicago.apwa.net/	)
-- 	[Engineers Without Borders - Chicago](https://ewb-usa-chicago.org/)
-- 	[Society of Women Engineers - Chicago](https://chicago.swe.org/)
-- 	[National Society of Black Engineers - Chicago](https://www.chicagonsbe.org/	)
-- 	[Audio Engineering Society - Chicago](https://www.aes.org/sections/chicago/)
-- 	[Society of Hispanic Professional Engineers - Region 6](https://shpe.org/membership/regions/region-6/	)
-- 	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.ispechicago.com/	)
-- 	[Illuminating Engineering Soceity](https://ieschicago.org/	)
-- 	[SAE (Society of Automotive Engineers) Chicago](https://chicagosae.org/	)
-- 	[SAME (Society of American Military Engineers) Chicago](https://samechicago.org/	)
-- 	[Society of Casuality Safety Engineers](https://scsechicago.org/	)
-- 	[Information Systems Audit and Control Association-Chicago Chapter](https://engage.isaca.org/chicagochapter/home	)
-- 	[Strructural Engineers Association of Illinois (SEAOI)](https://seaoi.org/)
-- 	[American Society of Civil Engineers](https://www.isasce.org/	)
-- 	[AIChE (American Institute of Chemical Engineers) ](https://www.aiche.org/community/sites/local-sections/chicago	)
-- 	[Institute of Transportation Engineers (ITE) Illinois](https://www.ilite.org/	)
-- 	[American Nuclear Society - Chicago Section](https://local.ans.org/chicago/	)
-
-- 	[Everyone Can Code Chicago](https://www.eccchicago.org/ 	)
-- 	[Chicago Engineers' Foundation](https://www.chicagoengineersfoundation.org/	)
+- [Audio Engineering Society (AES) - Chicago](https://www.aes.org/sections/chicago/)
 
 
-- 	[Chicago Java Users Group](https://www.meetup.com/chicagojug/	)
-- 	[Chicago Haskell](https://www.meetup.com/chicago-haskell/	)
-- 	[Chicago #learntocode](https://www.meetup.com/chicago-learntocode/	)
-- 	[Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/	)
-- 	[Chicago Kotlin](https://www.meetup.com/chicago-kotlin/	)
-- 	[Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/	)
-- 	[Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/	)
-- 	[React Chicago](https://www.meetup.com/react-chicago/	)
-- 	[Chicago PostgreSQL Meetup Group](https://www.meetup.com/chicago-postgresql-user-group/	)
-- 	[Chicago Women in Tech](https://chiwomenintech.com/	)
-- 	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/	)
-- 	[Chicago Innovate Tech](https://www.chicagoinnovate.tech/	)
-- 	[TechChicago](https://gotechchicago.com/events/	)
-- 	[P33 Chicago](https://p33chicago.com/	)
-- 	[Chicago Tech Interviews](https://www.meetup.com/chicago-tech-interviews/	)
-- 	[Chicago Tech Founders and Finance Leaders](https://www.meetup.com/chicago-tech-founders-and-finance-leaders/	)
-- 	[Chicago Tech & Drinks Meetup Group](https://www.meetup.com/chicago-tech-and-drinks-meetup-group/	)
-- 	[Chicago Food Tech](https://www.meetup.com/chicago-food-tech/	)
-- 	[Chicago Friends in Business and Tech](https://www.meetup.com/chicago-friends-in-business-tech/	)
-- 	[Chicago Codes](https://www.meetup.com/chicago-codes/	)
-- 	[Code for Chicago](https://www.meetup.com/code-for-chicago/	)
-- 	[PyData Chicago](https://www.meetup.com/pydatachi/	)
-- 	[Chicago Big Data & Internet of things Meetup](https://www.meetup.com/chicago-big-data-internet-of-things-meetup/	)
-- 	[Chicago Booth Big Data & Analytics Roundtable](https://www.meetup.com/chicago-booth-big-data-analytics-round-table/	)
-- 	[Data Science on GCP](https://www.meetup.com/data-science-on-gcp/	)
-- 	[DevOps Chicago](https://www.meetup.com/devops/	)
-- 	[Web Dev Chicago](https://www.meetup.com/webdevchicago/	)
-- 	[Chicago ML](https://www.meetup.com/Chicago-ML/	)
-- 	[MLOps Chicago](https://www.meetup.com/mlops-chicago/	)
-- 	[Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref	)
-- 	[Chicago Blockchain, Crypto, & DLT Community](https://www.meetup.com/chicago-blockchainers/	)
-- 	[Chicago Cybersecurity MEetup Group](https://www.meetup.com/chicago-cybersecurity-meetup-group/	)
-- 	[Chicago C/C++ Users Group](https://www.meetup.com/chicago-c-cpp-users-group/	)
-- 	[Chicago BITDEVS](https://www.meetup.com/chibitdevs/	)
-- 	[Chicago Power BI User Group](https://www.meetup.com/chicagolandpowerbi/	)
-- 	[Windy City Linux Users Group](https://www.meetup.com/wclug-org/	)
-- 	[Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/	)
+#### Data/ML/DS Focused
+- 	[Chicago Big Data & Internet of things Meetup](https://www.meetup.com/chicago-big-data-internet-of-things-meetup/)	
+- 	[Chicago Booth Big Data & Analytics Roundtable](https://www.meetup.com/chicago-booth-big-data-analytics-round-table/)	
+- 	[Chicago Data Professionals](https://www.meetup.com/chicagodataprofessionals/)	
+- 	[Chicago ML](https://www.meetup.com/Chicago-ML/)	
+- 	[Data Science on GCP](https://www.meetup.com/data-science-on-gcp/)	
+- 	[MLOps Chicago](https://www.meetup.com/mlops-chicago/)	
+- 	[PyData Chicago](https://www.meetup.com/pydatachi/)	
+- 	[Time Series Chicago](https://www.meetup.com/time-series-chicago/)	
 
-- 	[Chicago ServiceNow Developers Meetup](https://www.meetup.com/chicago-servicenow-developers-meetup/	)
-- 	[ChicagoRuby](https://www.meetup.com/chicagoruby/	)
-- 	[Bitcoin & Open Blockchain Community - Chicago](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/	)
-- 	[ISSA Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/	)
+#### Crypto/Blockchain
 
-- 	[NERP - Not Exclusively Raspberry Pi](https://www.meetup.com/nerp-not-exclusively-raspberry-pi/	)
+- 	[Bitcoin & Open Blockchain Community - Chicago](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/)
+- 	[Chicago Blockchain, Crypto, & DLT Community](https://www.meetup.com/chicago-blockchainers/)
 
-- 	[The Chicago Cloud Computing Meetup Group](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/	)
-- 	[Chicago SAS® Meetup](https://www.meetup.com/chicago-sas-meetup/	)
-- 	[Time Series Chicago](https://www.meetup.com/time-series-chicago/	)
-- 	[Data Science on GCP](https://www.meetup.com/data-science-on-gcp/	)
-- 	[Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/	)
-- 	[Chicago Data Professionals](https://www.meetup.com/chicagodataprofessionals/	)
-- 	[Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/	)
+#### Social
+- 	[Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/)
+- 	[Chicago Tech & Drinks Meetup Group](https://www.meetup.com/chicago-tech-and-drinks-meetup-group/)
 
-- 	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/	)
-- 	[Code for Chicago]( https://codeforchicago.org/	)
-- 	[Chi Hack Night](https://chihacknight.org/	)
-- 	[ACE (Architecture, Construction, Engineering) Mentor Program Chicago](https://acementorchicago.org/	)
 
+#### General Others
+- 	[Chi Hack Night](https://chihacknight.org/)
+- 	[Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
+- 	[Chicago #learntocode](https://www.meetup.com/chicago-learntocode/)
+- 	[Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
+- 	[Chicago C/C++ Users Group](https://www.meetup.com/chicago-c-cpp-users-group/)
+- 	[Chicago Codes](https://www.meetup.com/chicago-codes/)
+- 	[Chicago Cybersecurity Meetup Group](https://www.meetup.com/chicago-cybersecurity-meetup-group/)
+- 	[Chicago Food Tech](https://www.meetup.com/chicago-food-tech/)
+- 	[Chicago Friends in Business and Tech](https://www.meetup.com/chicago-friends-in-business-tech/)
+- 	[Chicago Haskell](https://www.meetup.com/chicago-haskell/)
+- 	[Chicago Innovate Tech](https://www.chicagoinnovate.tech/)
+- 	[Chicago Java Users Group](https://www.meetup.com/chicagojug/)
+- 	[Chicago Kotlin](https://www.meetup.com/chicago-kotlin/)
+- 	[Chicago PostgreSQL Meetup Group](https://www.meetup.com/chicago-postgresql-user-group/)
+- 	[Chicago Power BI User Group](https://www.meetup.com/chicagolandpowerbi/)
+- 	[Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref)
+- 	[Chicago SAS® Meetup](https://www.meetup.com/chicago-sas-meetup/)
+- 	[Chicago ServiceNow Developers Meetup](https://www.meetup.com/chicago-servicenow-developers-meetup/)
+- 	[Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)
+- 	[Chicago Tech Founders and Finance Leaders](https://www.meetup.com/chicago-tech-founders-and-finance-leaders/)
+- 	[Chicago Tech Interviews](https://www.meetup.com/chicago-tech-interviews/)
+- 	[Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)
+- 	[ChicagoRuby](https://www.meetup.com/chicagoruby/)
+- 	[DevOps Chicago](https://www.meetup.com/devops/)
+- 	[Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)
+- 	[Information Systems Security Association (ISSA) Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/)
+- 	[NERP - Not Exclusively Raspberry Pi](https://www.meetup.com/nerp-not-exclusively-raspberry-pi/)
+- 	[React Chicago](https://www.meetup.com/react-chicago/)
+- 	[TechChicago](https://gotechchicago.com/events/)
+- 	[The Chicago Cloud Computing Meetup Group](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/)
+- 	[Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)
+- 	[Web Dev Chicago](https://www.meetup.com/webdevchicago/)
+- 	[Windy City Linux Users Group](https://www.meetup.com/wclug-org/)
 
 
 ## Non-Profit/Volunteer
+   Organizations focused on providing opportunities for engineers to volunteer their skillsets to help others and/or helping in schools.
+- 	[Chicago Engineers' Foundation](https://www.chicagoengineersfoundation.org/)
+- 	[Engineers Without Borders - Chicago](https://ewb-usa-chicago.org/)
+- 	[Everyone Can Code Chicago](https://www.eccchicago.org/)
+- 	[Code for Chicago]( https://codeforchicago.org/)
+- 	[ACE (Architecture, Construction, Engineering) Mentor Program Chicago](https://acementorchicago.org/)
+
 
 ## Incubators/Accelerators
-Perhaps surprising to many, Chicago has a viprant startup community with incubators and accelerators to assist those get off the ground. 
+Perhaps surprising to many, Chicago has a vibrant startup community with incubators and accelerators to assist those get off the ground. 
 
  - [1871](https://1871.com/)
  - [mHUB](https://www.builtinchicago.org/company/mhub) - Hardware, MedTech
@@ -154,7 +157,7 @@ Perhaps surprising to many, Chicago has a viprant startup community with incubat
     
 ## Universities
  Universities are the core of many engineering studies around the world that are central to any community. However, generally they are not directly open to the public at large to engage with.
- - [Illinois Institite of Technology - Armour College of Engineering](https://www.iit.edu/engineering)
+ - [Illinois Institute of Technology - Armour College of Engineering](https://www.iit.edu/engineering)
  - [University of Chicago](https://www.uchicago.edu/education-and-research/academic-programs)
  - [UIC (University of Illinois Chicago)](https://engineering.uic.edu/)
  - [DePaul University](https://www.depaul.edu/Pages/default.aspx)
