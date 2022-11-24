@@ -16,7 +16,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 
 ### Non-Tech Organizations/Groups/Communities
-  By Non-Tech what is mean is non-Computer Science/Software/Data focused organizations
+  By Non-Tech what is meant are non-Computer Science/Software/Data focused organizations.
 - 	[AIChE (American Institute of Chemical Engineers) ](https://www.aiche.org/community/sites/local-sections/chicago)	
 - 	[American Nuclear Society - Chicago Section](https://local.ans.org/chicago/)	
 - 	[American Public Works Association (APWA) - Chicago Chapter](http://chicago.apwa.net/)	
@@ -42,13 +42,6 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[P33 Chicago](https://p33chicago.com/)
 
 ### Tech Organizations/Groups/Communities
-- [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
-   - This is a tech community focused in Chicago, good resource to network and visit the job boards		
-- [Chicago Python User Group](https://www.chipy.org/)
-- [Chicago Chapter of ACM](http://www.chicagoacm.org/)		
-- [IEEE Chicago](https://ieeechicago.org/)
-- [Audio Engineering Society (AES) - Chicago](https://www.aes.org/sections/chicago/)
-
 
 #### Data/ML/DS Focused
 - 	[Chicago Big Data & Internet of things Meetup](https://www.meetup.com/chicago-big-data-internet-of-things-meetup/)	
@@ -71,6 +64,12 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 
 #### General Others
+- [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
+   - This is a tech community focused in Chicago, good resource to network and visit the job boards		
+- [Chicago Python User Group](https://www.chipy.org/)
+- [Chicago Chapter of ACM](http://www.chicagoacm.org/)		
+- [IEEE Chicago](https://ieeechicago.org/)
+- [Audio Engineering Society (AES) - Chicago](https://www.aes.org/sections/chicago/)
 -  [AWS Chicago](https://slack.chicagoaws.com/)
 - 	[Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
 - 	[Chicago #learntocode](https://www.meetup.com/chicago-learntocode/)
