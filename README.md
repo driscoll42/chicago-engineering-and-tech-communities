@@ -13,6 +13,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
  - [Incubators/Accelerators](#incubatorsaccelerators)
  - [Hackerspaces](#hackerspaces)
  - [Universities](#universities)
+ - [Other](#other)
 
 
 ### Non-Tech Organizations/Groups/Communities
@@ -162,3 +163,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
  - [UIC (University of Illinois Chicago)](https://engineering.uic.edu/)
  - [DePaul University](https://www.depaul.edu/Pages/default.aspx)
  - [Northwestern University - McCormick School of Engineering](https://www.mccormick.northwestern.edu/)
+
+## Other
+ For other groups that are not directly engineering related, but I feel are worth bringing to the attention of engineers in Chicago.
+ - [Chicago Associate Boards](https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends) - This is a great list of various associate boards in Chicago athat young professional can join to start getting board leadership experience, and volunteering in their community.
