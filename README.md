@@ -71,6 +71,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 
 #### General Others
+-  [AWS Chicago](https://slack.chicagoaws.com/)
 - 	[Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
 - 	[Chicago #learntocode](https://www.meetup.com/chicago-learntocode/)
 - 	[Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
