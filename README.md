@@ -95,6 +95,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Chicago Tech Interviews](https://www.meetup.com/chicago-tech-interviews/)
 - 	[Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)
 - 	[ChicagoRuby](https://www.meetup.com/chicagoruby/)
+-  [ChiTechIRL](https://twitter.com/ChiTechIRL)
 - 	[DevOps Chicago](https://www.meetup.com/devops/)
 - 	[Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)
 - 	[Information Systems Security Association (ISSA) Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/)
