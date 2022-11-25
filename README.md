@@ -30,6 +30,8 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Society of Automotive Engineers (SAE) Chicago](https://chicagosae.org/)	
 - 	[Society of Casualty Safety Engineers](https://scsechicago.org/)	
 - 	[Structural Engineers Association of Illinois (SEAOI)](https://seaoi.org/)	
+- 	[American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE)](https://illinoisashrae.org/)
+- 	[Illinois Green Alliance](https://illinoisgreenalliance.org/)
 
 
 ### Diversity Focused
@@ -39,6 +41,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
 - 	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 - 	[Chicago Women in Tech](https://chiwomenintech.com/)
+- 	[Professional Women in Construction](https://chicago.pwcusa.org/)
 - 	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 - 	[P33 Chicago](https://p33chicago.com/)
 
@@ -116,6 +119,11 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Code for Chicago]( https://codeforchicago.org/)
 - 	[ACE (Architecture, Construction, Engineering) Mentor Program Chicago](https://acementorchicago.org/)
 - 	[Chi Hack Night](https://chihacknight.org/)
+-  [Calculated Genius](https://www.calculatedgenius.org/)
+-  [Project SYNCERE](https://projectsyncere.org/)
+-  [Chicago Pre-College Science and Engineering Program (ChiS&E)](https://chiprep.org/)
+
+
 
 
 ## Incubators/Accelerators
@@ -167,3 +175,4 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 ## Other
  For other groups that are not directly engineering related, but I feel are worth bringing to the attention of engineers in Chicago.
  - [Chicago Associate Boards](https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends) - This is a great list of various associate boards in Chicago athat young professional can join to start getting board leadership experience, and volunteering in their community.
+ - [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities/) = Not specifically Chicago, but I feel that there is a great benefit to the numerous Engineering and Tech discord communities out there for anyone to be part of to learn from others.
