@@ -44,6 +44,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Professional Women in Construction](https://chicago.pwcusa.org/)
 - 	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 - 	[P33 Chicago](https://p33chicago.com/)
+- 	[i.c.stars](https://www.icstars.org/)
 
 ### Tech Organizations/Groups/Communities
 
