@@ -105,6 +105,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Information Systems Security Association (ISSA) Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/)
 - 	[NERP - Not Exclusively Raspberry Pi](https://www.meetup.com/nerp-not-exclusively-raspberry-pi/)
 - 	[React Chicago](https://www.meetup.com/react-chicago/)
+-  [Relaunch](https://www.meetup.com/rmfs-chicago/)
 - 	[TechChicago](https://gotechchicago.com/events/)
 - 	[The Chicago Cloud Computing Meetup Group](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/)
 - 	[Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)
