@@ -32,6 +32,12 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Structural Engineers Association of Illinois (SEAOI)](https://seaoi.org/)	
 - 	[American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE)](https://illinoisashrae.org/)
 - 	[Illinois Green Alliance](https://illinoisgreenalliance.org/)
+- 	[Illinois Water Environment Association (IWEA)](https://www.iweasite.org/)
+-  [Illinois American Water Works Association (ISAWWA)](https://www.isawwa.org/)
+-  [Illinois Association of County Engineers (IACENG)](https://iaceng.org/)
+-  [Illinois Association of Highway Engineers (IAHE)](https://www.iahe-illinois.com/)
+-  [Illinois Institute of Transportation Engineers (ILITE)](https://www.ilite.org/)
+-  [Intellectual Property Law Association of Chicago (IPLAC)](https://iplac.org/)
 
 
 ### Diversity Focused
@@ -43,6 +49,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - 	[Chicago Women in Tech](https://chiwomenintech.com/)
 - 	[Professional Women in Construction](https://chicago.pwcusa.org/)
 - 	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
+- 	[Women in Data Science](https://widschicago.org/)
 - 	[P33 Chicago](https://p33chicago.com/)
 - 	[i.c.stars](https://www.icstars.org/)
 
