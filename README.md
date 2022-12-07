@@ -82,8 +82,11 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Tech & Drinks Meetup Group](https://www.meetup.com/chicago-tech-and-drinks-meetup-group/)
 
 #### Startup
+-	[Chicago Financial Industry Entrepreneurs and Startups](https://www.meetup.com/chicago-financial-industry-entrepreneurs-and-startups/)
+-	[Chicago Lean Startup Circle](https://www.meetup.com/chicagoleanstartup/)
 -	[Chicago Tech Founders and Finance Leaders](https://www.meetup.com/chicago-tech-founders-and-finance-leaders/)
--	[Relaunch](https://www.meetup.com/rmfs-chicago/)
+-	[Illinois Startups - Illinois Community in Entrepreneurship](https://www.meetup.com/illini-startups/)
+-	[[R]elaunch](https://www.meetup.com/rmfs-chicago/)
 
 
 #### General Others
