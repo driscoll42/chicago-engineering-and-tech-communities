@@ -70,6 +70,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[MLOps Chicago](https://www.meetup.com/mlops-chicago/)	
 -	[PyData Chicago](https://www.meetup.com/pydatachi/)	
 -	[Time Series Chicago](https://www.meetup.com/time-series-chicago/)	
+-	[Women in Data Science](https://widschicago.org/)		
 
 #### Crypto/Blockchain
 
@@ -130,7 +131,6 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)		
 -	[Web Dev Chicago](https://www.meetup.com/webdevchicago/)		
 -	[Windy City Linux Users Group](https://www.meetup.com/wclug-org/)		
--	[Women in Data Science](https://widschicago.org/)		
 
 
 ## Non-Profit/Volunteer
