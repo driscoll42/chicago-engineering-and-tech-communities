@@ -64,6 +64,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 #### Data/ML/DS Focused
 -	[Chicago Big Data & Internet of things Meetup](https://www.meetup.com/chicago-big-data-internet-of-things-meetup/)	
 -	[Chicago Booth Big Data & Analytics Roundtable](https://www.meetup.com/chicago-booth-big-data-analytics-round-table/)	
+-	[Chicago Data Community](https://www.linkedin.com/groups/14156219/)
 -	[Chicago Data Professionals](https://www.meetup.com/chicagodataprofessionals/)	
 -	[Chicago ML](https://www.meetup.com/Chicago-ML/)	
 -	[Data Science on GCP](https://www.meetup.com/data-science-on-gcp/)	
