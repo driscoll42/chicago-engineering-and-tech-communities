@@ -151,11 +151,10 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 Perhaps surprising to many, Chicago has a vibrant startup community with incubators and accelerators to assist those get off the ground. 
 
 -	[1871](https://1871.com/)
--	[mHUB](https://www.builtinchicago.org/company/mhub) - Hardware, MedTech
--	[Catapult Chicago](https://www.catapultchicago.com/)
 -	[2112](http://2112inc.com/) - Music, Film/Video And Creative Technology
 -	[BLUE1647](http://www.blue1647.com/)
 -	[Bunker Labs](https://bunkerlabs.org/) - Veteran-led businesses
+-	[Catapult Chicago](https://www.catapultchicago.com/)
 -	[Cleveland Avenue](http://www.clevelandavenue.com/) - Food, Beverage and Tech businesses
 -	[Elmspring Accelerator](http://elmspringaccelerator.com/) - Real Estate and Housing Tech
 -	[Financial Solutions Lab](http://finlab.finhealthnetwork.org/accelerator/) - Fintech
@@ -163,6 +162,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 -	[INCISENT Labs](http://incisentlabs.com/)
 -	[Insight Accelerator Labs](https://insightpd.com/accelerator/insight-accelerator-labs/) - Healthcare
 -	[MATTER](https://matter.health/) - Healthcare
+-	[mHUB](https://www.builtinchicago.org/company/mhub) - Hardware, MedTech
 -	[Moderne Ventures](http://www.moderneventures.com/passport/) - Real estate, Insurance, Finance, Hospitality, and Home services
 -	[NAR Reach](http://nar-reach.com/reach-2022/) - Real Estate tech
 -	[Nemera Insight Accelerator Labs](http://insightpd.com/accelerator/insight-accelerator-labs/) - MedTech
@@ -175,6 +175,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 -	[Treehouse Adventures](http://www.treehouse.vc/)
 -	[VentureSHOT](http://ventureshot.com/)
 -	[WiSTEM](http://www.1871.com/wistem/) - Focus on Women Lead Startups
+
 
 ## [Hackerspaces](https://wiki.hackerspaces.org/Chicago)
   Hackerspaces (also hacklabs, hackspaces) are community-operated physical places, where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other.
