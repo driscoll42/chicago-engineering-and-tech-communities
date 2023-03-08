@@ -145,6 +145,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chi Hack Night](https://chihacknight.org/)
 -	[Chicago Pre-College Science and Engineering Program (ChiS&E)](https://chiprep.org/)
 -	[Code for Chicago]( https://codeforchicago.org/)
+- [Code Your Dreams](https://www.codeyourdreams.org/)
 -	[Engineers Without Borders - Chicago](https://ewb-usa-chicago.org/)
 -	[Everyone Can Code Chicago](https://www.eccchicago.org/)
 -	[Project SYNCERE](https://projectsyncere.org/)
