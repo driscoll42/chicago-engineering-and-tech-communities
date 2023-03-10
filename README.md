@@ -50,6 +50,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 -	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 -	[Chicago Women in Tech](https://chiwomenintech.com/)
+-	[Fintech Women](https://www.nycfintechwomen.com/) - Chicago chapter just launched, [Event Link](https://www.nycfintechwomen.com/event-info/chicago-chapter-launch), no specific website yet.
 -	[i.c.stars](https://www.icstars.org/)
 -	[National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
 -	[P33 Chicago](https://p33chicago.com/)
