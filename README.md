@@ -122,6 +122,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)		
 -	[Chicago Women in Tech](https://chiwomenintech.com/)		
 -	[ChicagoRuby](https://www.meetup.com/chicagoruby/)		
+-	[CHI-NOG (Chicago Network Operators Group](https://chinog.org/)
 -	[ChiTechIRL](https://twitter.com/ChiTechIRL)		
 -	[DevOps Chicago](https://www.meetup.com/devops/)		
 -	[Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)		
