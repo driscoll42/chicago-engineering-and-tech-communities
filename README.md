@@ -130,6 +130,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[IEEE Chicago](https://ieeechicago.org/)		
 -	[Information Systems Security Association (ISSA) Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/)		
 -	[NERP - Not Exclusively Raspberry Pi](https://www.meetup.com/nerp-not-exclusively-raspberry-pi/)		
+-	[OpenSearch Project - Chicago](https://www.meetup.com/opensearch-project-chicago/)
 -	[P33 Chicago](https://p33chicago.com/)		
 -	[React Chicago](https://www.meetup.com/react-chicago/)		
 -	[TechChicago](https://gotechchicago.com/events/)		
