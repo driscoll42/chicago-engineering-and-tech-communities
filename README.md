@@ -2,8 +2,7 @@
 
 # Chicago Engineering and Tech Communities and Organizations
 
-Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago focused! A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings.
-
+Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago focused! A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings. There is a great calendar of Chicago-based events one can find at [Chicago Tech Community Events](https://chitechcommunityevents.softr.app/).
 
 # Navigation
 -	[Non-Tech Organizations/Groups/Communities](#non-tech-organizationsgroupscommunities)
@@ -116,7 +115,8 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Python User Group](https://www.chipy.org/)		
 -	[Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref)		
 -	[Chicago R-Ladies Group](https://www.meetup.com/rladies-chicago/)		
--	[Chicago SAS® Meetup](https://www.meetup.com/chicago-sas-meetup/)		
+-	[Chicago SAS® Meetup](https://www.meetup.com/chicago-sas-meetup/)
+-	[Chicago Seleniumistas](https://www.meetup.com/chicago-seleniumistas/)
 -	[Chicago ServiceNow Developers Meetup](https://www.meetup.com/chicago-servicenow-developers-meetup/)		
 -	[Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)		
 -	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)		
@@ -135,7 +135,8 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[P33 Chicago](https://p33chicago.com/)		
 -	[React Chicago](https://www.meetup.com/react-chicago/)		
 -	[TechChicago](https://gotechchicago.com/events/)		
--	[The Chicago Cloud Computing Meetup Group](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/)		
+-	[The Chicago Cloud Computing Meetup Group](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/)
+-	[UniForum Chicago](https://www.meetup.com/uniforum-chicago/)
 -	[Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)		
 -	[Web Dev Chicago](https://www.meetup.com/webdevchicago/)		
 -	[Windy City Linux Users Group](https://www.meetup.com/wclug-org/)		
