@@ -50,12 +50,16 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 -	[Chicago Women in Tech](https://chiwomenintech.com/)
 -	[Fintech Women](https://www.nycfintechwomen.com/) - Chicago chapter just launched, [Event Link](https://www.nycfintechwomen.com/event-info/chicago-chapter-launch), no specific website yet.
+-	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
 -	[i.c.stars](https://www.icstars.org/)
+-	[Queer Tech Club](https://www.meetup.com/queer-tech-club/)
 -	[National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
+-	[Out In Tech](https://outintech.com/) - Has Chicago Chapter
 -	[P33 Chicago](https://p33chicago.com/)
 -	[Professional Women in Construction](https://chicago.pwcusa.org/)
 -	[Society of Hispanic Professional Engineers (SHPE) - Region 6](https://shpe.org/membership/regions/region-6/)
 -	[Society of Women Engineers (SWE) - Chicago](https://chicago.swe.org/)
+-	[StartOut](https://startout.org/) - Has Chicago Chapter
 -	[Women in Data Science](https://widschicago.org/)
 
 
@@ -87,8 +91,12 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Financial Industry Entrepreneurs and Startups](https://www.meetup.com/chicago-financial-industry-entrepreneurs-and-startups/)
 -	[Chicago Lean Startup Circle](https://www.meetup.com/chicagoleanstartup/)
 -	[Chicago Tech Founders and Finance Leaders](https://www.meetup.com/chicago-tech-founders-and-finance-leaders/)
+-	[Founders Institute](https://fi.co/) - Has Chicagp Chapter
+-	[Founders Network]([https://foundersnetwork.com/](https://foundersnetwork.com/mentoring-programs/chicago/))
+-	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
 -	[Illinois Startups - Illinois Community in Entrepreneurship](https://www.meetup.com/illini-startups/)
 -	[[R]elaunch](https://www.meetup.com/rmfs-chicago/)
+-	[StartOut](https://startout.org/) - Has Chicago Chapter
 
 
 #### General Others
