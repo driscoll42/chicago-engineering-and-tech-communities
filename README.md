@@ -46,11 +46,13 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 ### Identity Focused
    Generally organizations focused on promoting diversity of identities in various fields of engineering and allowing for connections between those groups.
+-	[2Flo Ventures](https://2floventures.com/) - Black-led Hearlthcare Incubator
 -	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 -	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 -	[Chicago Women in Tech](https://chiwomenintech.com/)
 -	[Fintech Women](https://www.nycfintechwomen.com/) - Chicago chapter just launched, [Event Link](https://www.nycfintechwomen.com/event-info/chicago-chapter-launch), no specific website yet.
 -	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
+-	[GENESIS](https://www.joingenesis.org/)
 -	[i.c.stars](https://www.icstars.org/)
 -	[Queer Tech Club](https://www.meetup.com/queer-tech-club/)
 -	[National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
@@ -66,6 +68,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 ### Tech Organizations/Groups/Communities
 
 #### Data/ML/DS Focused
+- [AI at Work: Chicago](https://www.meetup.com/chicago-ai-at-work/)
 -	[Chicago Big Data & Internet of things Meetup](https://www.meetup.com/chicago-big-data-internet-of-things-meetup/)	
 -	[Chicago Booth Big Data & Analytics Roundtable](https://www.meetup.com/chicago-booth-big-data-analytics-round-table/)	
 -	[Chicago Data Community](https://www.linkedin.com/groups/14156219/)
@@ -82,6 +85,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 -	[Bitcoin & Open Blockchain Community - Chicago](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/)
 -	[Chicago Blockchain, Crypto, & DLT Community](https://www.meetup.com/chicago-blockchainers/)
+-	[ETHChicago](https://www.ethchicago.xyz/)
 
 #### Social
 -	[Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/)
@@ -94,9 +98,11 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Founders Institute](https://fi.co/) - Has Chicagp Chapter
 -	[Founders Network]([https://foundersnetwork.com/](https://foundersnetwork.com/mentoring-programs/chicago/))
 -	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
+-	[GENESIS](https://www.joingenesis.org/)
 -	[Illinois Startups - Illinois Community in Entrepreneurship](https://www.meetup.com/illini-startups/)
 -	[[R]elaunch](https://www.meetup.com/rmfs-chicago/)
 -	[StartOut](https://startout.org/) - Has Chicago Chapter
+-	[Startup Hypeman](https://www.startuphypeman.com/)
 
 
 #### General Others
@@ -144,7 +150,8 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[OpenSearch Project - Chicago](https://www.meetup.com/opensearch-project-chicago/)
 -	[P33 Chicago](https://p33chicago.com/)		
 -	[React Chicago](https://www.meetup.com/react-chicago/)		
--	[TechChicago](https://gotechchicago.com/events/)		
+-	[TechChicago](https://gotechchicago.com/events/)
+-	[Tech In Motion](https://techinmotion.com/) - Has Chicago Chapter
 -	[The Chicago Cloud Computing Meetup Group](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/)
 -	[UniForum Chicago](https://www.meetup.com/uniforum-chicago/)
 -	[Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)		
@@ -172,6 +179,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 
 -	[1871](https://1871.com/)
 -	[2112](http://2112inc.com/) - Music, Film/Video And Creative Technology
+-	[2Flo Ventures](https://2floventures.com/) - Black-led Hearlthcare
 -	[BLUE1647](http://www.blue1647.com/)
 -	[Bunker Labs](https://bunkerlabs.org/) - Veteran-led businesses
 -	[Catapult Chicago](https://www.catapultchicago.com/)
