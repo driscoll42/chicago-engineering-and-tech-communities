@@ -22,7 +22,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[American Public Works Association (APWA) - Chicago Chapter](http://chicago.apwa.net/)
 -	[American Society of Civil Engineers](https://www.isasce.org/)
 -	[American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE)](https://illinoisashrae.org/)
--	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.ispechicago.com/)
+-	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.illinoisengineer.com/chicago-chapter.html)
 -	[i.c.stars](https://www.icstars.org/)
 -	[Illinois American Water Works Association (ISAWWA)](https://www.isawwa.org/)
 -	[Illinois Association of County Engineers (IACENG)](https://iaceng.org/)
@@ -89,17 +89,14 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 #### Social
 -	[Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/)
--	[Chicago Tech & Drinks Meetup Group](https://www.meetup.com/chicago-tech-and-drinks-meetup-group/)
 
 #### Startup
 -	[Chicago Financial Industry Entrepreneurs and Startups](https://www.meetup.com/chicago-financial-industry-entrepreneurs-and-startups/)
 -	[Chicago Lean Startup Circle](https://www.meetup.com/chicagoleanstartup/)
--	[Chicago Tech Founders and Finance Leaders](https://www.meetup.com/chicago-tech-founders-and-finance-leaders/)
 -	[Founders Institute](https://fi.co/) - Has Chicagp Chapter
--	[Founders Network]([https://foundersnetwork.com/](https://foundersnetwork.com/mentoring-programs/chicago/))
+-	[Founders Network](https://foundersnetwork.com/mentoring-programs/chicago/))
 -	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
 -	[GENESIS](https://www.joingenesis.org/)
--	[Illinois Startups - Illinois Community in Entrepreneurship](https://www.meetup.com/illini-startups/)
 -	[[R]elaunch](https://www.meetup.com/rmfs-chicago/)
 -	[StartOut](https://startout.org/) - Has Chicago Chapter
 -	[Startup Hypeman](https://www.startuphypeman.com/)
@@ -109,7 +106,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
    - This is a tech community focused in Chicago, good resource to network and visit the job boards		
 -	[Audio Engineering Society (AES) - Chicago](https://www.aes.org/sections/chicago/)		
--	[AWS Chicago](https://slack.chicagoaws.com/)		
+-	[AWS Chicago](https://www.chicagoaws.com/)		
 -	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)		
 -	[Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
 -	[Chi Hack Night](https://chihacknight.org/)
@@ -119,7 +116,6 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Chapter of ACM](http://www.chicagoacm.org/)
 -	[Chicago Cloud Native Community Group](https://community.cncf.io/chicago/)
 -	[Chicago Codes](https://www.meetup.com/chicago-codes/)		
--	[Chicago Cybersecurity Meetup Group](https://www.meetup.com/chicago-cybersecurity-meetup-group/)		
 -	[Chicago Food Tech](https://www.meetup.com/chicago-food-tech/)		
 -	[Chicago Friends in Business and Tech](https://www.meetup.com/chicago-friends-in-business-tech/)		
 -	[Chicago Haskell](https://www.meetup.com/chicago-haskell/)		
@@ -141,7 +137,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)		
 -	[Chicago Women in Tech](https://chiwomenintech.com/)		
 -	[ChicagoRuby](https://www.meetup.com/chicagoruby/)		
--	[CHI-NOG (Chicago Network Operators Group](https://chinog.org/)
+-	[CHI-NOG (Chicago Network Operators Group)](https://chinog.org/)
 -	[ChiTechIRL](https://twitter.com/ChiTechIRL)		
 -	[DevOps Chicago](https://www.meetup.com/devops/)		
 -	[Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)		
@@ -183,12 +179,10 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 -	[2Flo Ventures](https://2floventures.com/) - Black-led Hearlthcare
 -	[BLUE1647](http://www.blue1647.com/)
 -	[Bunker Labs](https://bunkerlabs.org/) - Veteran-led businesses
--	[Catapult Chicago](https://www.catapultchicago.com/)
 -	[Cleveland Avenue](http://www.clevelandavenue.com/) - Food, Beverage and Tech businesses
 -	[Elmspring Accelerator](http://elmspringaccelerator.com/) - Real Estate and Housing Tech
 -	[Financial Solutions Lab](http://finlab.finhealthnetwork.org/accelerator/) - Fintech
 -	[Healthbox](https://healthbox.com/) - Health Tech
--	[INCISENT Labs](http://incisentlabs.com/)
 -	[Insight Accelerator Labs](https://insightpd.com/accelerator/insight-accelerator-labs/) - Healthcare
 -	[MATTER](https://matter.health/) - Healthcare
 -	[mHUB](https://www.builtinchicago.org/company/mhub) - Hardware, MedTech
@@ -196,7 +190,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 -	[NAR Reach](http://nar-reach.com/reach-2022/) - Real Estate tech
 -	[Nemera Insight Accelerator Labs](http://insightpd.com/accelerator/insight-accelerator-labs/) - MedTech
 -	[POLSKY](http://polsky.uchicago.edu/programs-events/new-venture-challenge/) - Students-led Businesses
--	[Propel](http://ibioinstitute.com/propel/) - Life Sciences
+-	[Propel](https://ibio.org/propel/propel-programs/) - Life Sciences
 -	[Roniin](https://roniin.com/)
 -	[Sunshine Enterprises](http://sunshineenterprises.com/)
 -	[TechNexus Venture Collaborative](http://www.technexus.com/) - AI/ML, AR, VR, IoT, Analytics
