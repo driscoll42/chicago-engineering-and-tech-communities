@@ -227,4 +227,4 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 ## Other
  For other groups that are not directly engineering related, but I feel are worth bringing to the attention of engineers in Chicago.
 -	[Chicago Associate Boards](https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends) - This is a great list of various associate boards in Chicago athat young professional can join to start getting board leadership experience, and volunteering in their community.
--	[Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities/) = Not specifically Chicago, but I feel that there is a great benefit to the numerous Engineering and Tech discord communities out there for anyone to be part of to learn from others.
+-	[Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities/) - Not specifically Chicago, but I feel that there is a great benefit to the numerous Engineering and Tech discord communities out there for anyone to be part of to learn from others.
