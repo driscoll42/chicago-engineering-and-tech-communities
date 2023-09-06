@@ -117,6 +117,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref)		
 -	[Chicago R-Ladies Group](https://www.meetup.com/rladies-chicago/)		
 -	[Chicago SAS® Meetup](https://www.meetup.com/chicago-sas-meetup/)
+-	[Chicago Search Community](https://www.meetup.com/opensearch-project-chicago/)
 -	[Chicago Seleniumistas](https://www.meetup.com/chicago-seleniumistas/)
 -	[Chicago ServiceNow Developers Meetup](https://www.meetup.com/chicago-servicenow-developers-meetup/)		
 -	[Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)		
