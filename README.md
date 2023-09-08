@@ -22,6 +22,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[American Public Works Association (APWA) - Chicago Chapter](http://chicago.apwa.net/)
 -	[American Society of Civil Engineers](https://www.isasce.org/)
 -	[American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE)](https://illinoisashrae.org/)
+-	[Chicago Association of Student Engineers](https://caseseniorboard.wixsite.com/website)
 -	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.illinoisengineer.com/chicago-chapter.html)
 -	[Chicago Quantum Exchange](https://chicagoquantum.org/)
 -	[i.c.stars](https://www.icstars.org/)
