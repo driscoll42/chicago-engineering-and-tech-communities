@@ -23,6 +23,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[American Society of Civil Engineers](https://www.isasce.org/)
 -	[American Society of Heating, Refrigeration, and Air Conditioning Engineers (ASHRAE)](https://illinoisashrae.org/)
 -	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.illinoisengineer.com/chicago-chapter.html)
+-	[Chicago Quantum Exchange](https://chicagoquantum.org/)
 -	[i.c.stars](https://www.icstars.org/)
 -	[Illinois American Water Works Association (ISAWWA)](https://www.isawwa.org/)
 -	[Illinois Association of County Engineers (IACENG)](https://iaceng.org/)
