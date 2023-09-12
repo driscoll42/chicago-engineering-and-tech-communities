@@ -55,6 +55,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Fintech Women](https://www.nycfintechwomen.com/) - Chicago chapter just launched, [Event Link](https://www.nycfintechwomen.com/event-info/chicago-chapter-launch), no specific website yet.
 -	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
 -	[GENESIS](https://www.joingenesis.org/)
+-	[Girls 4 Science](https://girls4science.org/)
 -	[i.c.stars](https://www.icstars.org/)
 -	[Queer Tech Club](https://www.meetup.com/queer-tech-club/)
 -	[National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
@@ -169,6 +170,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 - [Code Your Dreams](https://www.codeyourdreams.org/)
 -	[Engineers Without Borders - Chicago](https://ewb-usa-chicago.org/)
 -	[Everyone Can Code Chicago](https://www.eccchicago.org/)
+-	[Girls 4 Science](https://girls4science.org/)
 -	[Project SYNCERE](https://projectsyncere.org/)
 
 
