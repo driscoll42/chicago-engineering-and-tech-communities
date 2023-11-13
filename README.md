@@ -90,7 +90,9 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 #### Crypto/Blockchain
 
 -	[Bitcoin & Open Blockchain Community - Chicago](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/)
+-	[Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
 -	[Chicago Blockchain, Crypto, & DLT Community](https://www.meetup.com/chicago-blockchainers/)
+-	[Chicago Crypto Art](https://www.meetup.com/chicago-crypto-art/)
 -	[ETHChicago](https://www.ethchicago.xyz/)
 
 #### Social
@@ -100,10 +102,14 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 #### Startup
 -	[Chicago Financial Industry Entrepreneurs and Startups](https://www.meetup.com/chicago-financial-industry-entrepreneurs-and-startups/)
 -	[Chicago Lean Startup Circle](https://www.meetup.com/chicagoleanstartup/)
+-	[Chicago Startup Founder 101](https://www.meetup.com/chicago-startup-founder-101/)
+-	[Chicago Startup and Tech Mixer](https://www.meetup.com/chicagotechmixer/)
 -	[Founders Institute](https://fi.co/) - Has Chicagp Chapter
 -	[Founders Network](https://foundersnetwork.com/mentoring-programs/chicago/))
+-	[Founder's Therapy - Chicago](https://www.meetup.com/founder-s-therapy-chicago/)
 -	[Gen Z VCs](https://www.genzvcs.com/) - Has Chicago Chapter
 -	[GENESIS](https://www.joingenesis.org/)
+-	[OraView Fire for Solopreneurs](https://www.meetup.com/oravew-fire/)
 -	[[R]elaunch](https://www.meetup.com/rmfs-chicago/)
 -	[StartOut](https://startout.org/) - Has Chicago Chapter
 -	[Startup Hypeman](https://www.startuphypeman.com/)
@@ -128,7 +134,8 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Friends in Business and Tech](https://www.meetup.com/chicago-friends-in-business-tech/)		
 -	[Chicago Haskell](https://www.meetup.com/chicago-haskell/)		
 -	[Chicago Innovate Tech](https://www.chicagoinnovate.tech/)		
--	[Chicago Java Users Group](https://www.meetup.com/chicagojug/)		
+-	[Chicago Java Users Group](https://www.meetup.com/chicagojug/)
+-	[Chicago JavaScript Meetup Group](https://www.meetup.com/js-chi/)
 -	[Chicago Kotlin](https://www.meetup.com/chicago-kotlin/)		
 -	[Chicago PostgreSQL Meetup Group](https://www.meetup.com/chicago-postgresql-user-group/)		
 -	[Chicago Power BI User Group](https://www.meetup.com/chicagolandpowerbi/)		
@@ -144,12 +151,14 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Tech Interviews](https://www.meetup.com/chicago-tech-interviews/)		
 -	[Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)		
 -	[Chicago Women in Tech](https://chiwomenintech.com/)		
--	[ChicagoRuby](https://www.meetup.com/chicagoruby/)		
+-	[ChicagoRuby](https://www.meetup.com/chicagoruby/)
+-	[ChiTechBio](https://www.meetup.com/chitownbio/)
 -	[CHI-NOG (Chicago Network Operators Group)](https://chinog.org/)
 -	[ChiTechIRL](https://twitter.com/ChiTechIRL)
 -	[Codecademy + 100Devs Chicago Meetup](https://www.meetup.com/100devs-meetup-group/)
 -	[Deep Dish Rust](https://www.meetup.com/deep-dish-rust/)
 -	[DevOps Chicago](https://www.meetup.com/devops/)
+-	[Discover Technology](https://www.meetup.com/discover-technology/)
 -	[Drupal Chicago](https://www.meetup.com/drupalchicago/)
 -	[Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)		
 -	[IEEE Chicago](https://ieeechicago.org/)		
