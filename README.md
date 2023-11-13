@@ -93,6 +93,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 #### Social
 -	[Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/)
+-	[Chicago Digital Nomads](https://www.meetup.com/chicago-coworking-space-meetup-group/)
 
 #### Startup
 -	[Chicago Financial Industry Entrepreneurs and Startups](https://www.meetup.com/chicago-financial-industry-entrepreneurs-and-startups/)
