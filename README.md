@@ -50,6 +50,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 ### Identity Focused
    Generally organizations focused on promoting diversity of identities in various fields of engineering and allowing for connections between those groups.
 -	[2Flo Ventures](https://2floventures.com/) - Black-led Hearlthcare Incubator
+-	[Blacks in Technology - Chicago Chapter](https://www.linkedin.com/showcase/bit-chicago/)
 -	[Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 -	[Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 -	[Chicago Women in Tech](https://chiwomenintech.com/)
