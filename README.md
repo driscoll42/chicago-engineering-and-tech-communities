@@ -80,6 +80,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Data Community](https://www.linkedin.com/groups/14156219/)
 -	[Chicago Data Professionals](https://www.meetup.com/chicagodataprofessionals/)
 -	[Chicago ML](https://www.meetup.com/Chicago-ML/)
+-	[Chicago Machine Learning Paper Reading Group](https://www.meetup.com/chicago-machine-learning-paper-reading-group/)
 -	[Chicago Open Source Data Infrastructure Meetup](https://www.meetup.com/chicago-open-source-data-infrastructure-meetup/)
 -	[Creative AI](https://www.meetup.com/creativeai-chicago/)
 -	[Data Science on GCP](https://www.meetup.com/data-science-on-gcp/)	
