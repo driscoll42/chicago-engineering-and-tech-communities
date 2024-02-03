@@ -75,6 +75,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 #### Data/ML/DS Focused
 - [AI at Work: Chicago](https://www.meetup.com/chicago-ai-at-work/)
 -	[AI Hack and Demo Night Chicago](https://www.meetup.com/ai-hack-and-demo-night-chicago/)
+-	[AI Tinkerers - Chicago](https://chicago.aitinkerers.org/)
 -	[Chicago Big Data & Internet of things Meetup](https://www.meetup.com/chicago-big-data-internet-of-things-meetup/)	
 -	[Chicago Booth Big Data & Analytics Roundtable](https://www.meetup.com/chicago-booth-big-data-analytics-round-table/)	
 -	[Chicago Data Community](https://www.linkedin.com/groups/14156219/)
