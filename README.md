@@ -26,6 +26,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 -	[Chicago Chapter of the Illinois Society of Professional Engineers](https://www.illinoisengineer.com/chicago-chapter.html)
 -	[Chicago Council on Science and Technology](https://www.c2st.org/)
 -	[Chicago Quantum Exchange](https://chicagoquantum.org/)
+-	[Discovery Partners Institute](https://dpi.uillinois.edu/)
 -	[i.c.stars](https://www.icstars.org/)
 -	[Illinois American Water Works Association (ISAWWA)](https://www.isawwa.org/)
 -	[Illinois Association of County Engineers (IACENG)](https://iaceng.org/)
@@ -243,6 +244,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 -	[Illinois Institute of Technology - Armour College of Engineering](https://www.iit.edu/engineering)
 -	[Northwestern University - McCormick School of Engineering](https://www.mccormick.northwestern.edu/)
 -	[UIC (University of Illinois Chicago)](https://engineering.uic.edu/)
+-	[UIUC (University of Illinois @ Urbana-Champagin) - Chicago Campus)](https://cs.illinois.edu/academics/graduate/professional-mcs/chicago-master-computer-science)
 -	[University of Chicago](https://www.uchicago.edu/education-and-research/academic-programs)
 
 
