@@ -244,7 +244,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 -	[Illinois Institute of Technology - Armour College of Engineering](https://www.iit.edu/engineering)
 -	[Northwestern University - McCormick School of Engineering](https://www.mccormick.northwestern.edu/)
 -	[UIC (University of Illinois Chicago)](https://engineering.uic.edu/)
--	[UIUC (University of Illinois @ Urbana-Champagin) - Chicago Campus)](https://cs.illinois.edu/academics/graduate/professional-mcs/chicago-master-computer-science)
+-	[UIUC (University of Illinois @ Urbana-Champagin) - MCS Chicago Campus](https://cs.illinois.edu/academics/graduate/professional-mcs/chicago-master-computer-science)
 -	[University of Chicago](https://www.uchicago.edu/education-and-research/academic-programs)
 
 
