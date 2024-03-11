@@ -109,6 +109,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 #### Startup
 -	[Chicago Financial Industry Entrepreneurs and Startups](https://www.meetup.com/chicago-financial-industry-entrepreneurs-and-startups/)
+- [Chicago Indie Hackers](https://www.meetup.com/chicago-indie-hackers/)
 -	[Chicago Lean Startup Circle](https://www.meetup.com/chicagoleanstartup/)
 -	[Chicago Startup Founder 101](https://www.meetup.com/chicago-startup-founder-101/)
 -	[Chicago Startup and Tech Mixer](https://www.meetup.com/chicagotechmixer/)
