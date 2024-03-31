@@ -118,7 +118,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Chicago Startup Founder 101](https://www.meetup.com/chicago-startup-founder-101/)
 - [Chicago Startup and Tech Mixer](https://www.meetup.com/chicagotechmixer/)
 - [Founders Institute](https://fi.co/) - Has Chicago chapter
-- [Founders Network](https://foundersnetwork.com/mentoring-programs/chicago/))
+- [Founders Network](https://foundersnetwork.com/mentoring-programs/chicago/)
 - [Founder's Therapy - Chicago](https://www.meetup.com/founder-s-therapy-chicago/)
 - [Gen Z VCs](https://www.genzvcs.com/) - Has Chicago chapter
 - [GENESIS](https://www.joingenesis.org/)
