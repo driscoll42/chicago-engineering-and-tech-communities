@@ -78,6 +78,7 @@ Generally organizations focused on promoting diversity of identities in various 
 ### Data/ML/DS-Focused
 
 - [AI at Work: Chicago](https://www.meetup.com/chicago-ai-at-work/)
+- [AI at Northwestern](https://ai.northwestern.edu/news-events/events/index.php)
 - [AI Hack and Demo Night Chicago](https://www.meetup.com/ai-hack-and-demo-night-chicago/)
 - [AI Tinkerers - Chicago](https://chicago.aitinkerers.org/)
 - [Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
