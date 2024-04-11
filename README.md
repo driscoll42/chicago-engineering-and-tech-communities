@@ -2,7 +2,7 @@
 
 # Chicago Engineering and Tech Communities and Organizations
 
-Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago-focused! A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech-focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in-person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings. There is a great calendar of Chicago-based events one can find at [Chicago Tech Community Events](https://chitechcommunityevents.softr.app/).
+Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago-focused! (However the [Awesome Tech Communities fork](https://github.com/MartinRosenberg/Awesome-Tech-Communities) is far more active and up to date than Dot's) A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech-focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in-person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings. There is a great calendar of Chicago-based events one can find at [Chicago Tech Community Events](https://chitechcommunityevents.softr.app/).
 
 ## Navigation
 
@@ -260,5 +260,5 @@ For other groups that are not directly engineering related, but I feel are worth
 
 - [Chicago Associate Boards](https://github.com/driscoll42/chicago_young_professional_groups/tree/main) - This is a great list of various associate boards in Chicago that young professionals can join to start getting board leadership experience, and volunteering in their community.
 - [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities/) - Not specifically Chicago, but I feel that there is a great benefit to the numerous engineering and tech Discord communities out there for anyone to be part of to learn from others.
-- [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) - A list of Slack communities around the world to join
+- [Awesome Tech Communities fork](https://github.com/MartinRosenberg/Awesome-Tech-Communities) - A list of Slack communities around the world to join
 - [Chicago Tech Community Events](https://chitechcommunityevents.softr.app/) - A calendar of various Chicago tech events
