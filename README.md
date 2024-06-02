@@ -95,6 +95,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)
 - [Couchbase Midwest](https://www.meetup.com/couchbase-midwest/)
 - [Creative AI](https://www.meetup.com/creativeai-chicago/)
+- [IDEAL Institute](https://www.ideal-institute.org/)
 - [MLOps Chicago](https://www.meetup.com/mlops-chicago/)
 - [PyData Chicago](https://www.meetup.com/pydatachi/)
 - [Women in Data Science](https://widschicago.org/)
