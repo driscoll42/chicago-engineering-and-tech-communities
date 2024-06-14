@@ -88,6 +88,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Chicago Data Professionals](https://www.meetup.com/chicagodataprofessionals/)
 - [Chicago dbt Meetup](https://www.meetup.com/chicago-dbt-meetup/)
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
+- [Chicago ML and Data Science](https://www.meetup.com/chicago-ml-data-science/)
 - [Chicago Machine Learning Paper Reading Group](https://www.meetup.com/chicago-machine-learning-paper-reading-group/)
 - [Chicago Open Source Data Infrastructure Meetup](https://www.meetup.com/chicago-open-source-data-infrastructure-meetup/)
 - [Chicago PostgreSQL Meetup Group](https://www.meetup.com/chicago-postgresql-user-group/)
