@@ -94,6 +94,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Chicago PostgreSQL Meetup Group](https://www.meetup.com/chicago-postgresql-user-group/)
 - [Chicago Power BI User Group](https://www.meetup.com/chicagolandpowerbi/)
 - [Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)
+- [Compute Collective, The](https://lu.ma/thecomputecollective)
 - [Couchbase Midwest](https://www.meetup.com/couchbase-midwest/)
 - [Creative AI](https://www.meetup.com/creativeai-chicago/)
 - [IDEAL Institute](https://www.ideal-institute.org/)
