@@ -165,6 +165,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Chicago Women in Tech](https://chiwomenintech.com/)
 - [Chicago Women UX Designers in Tech](https://www.meetup.com/chicago-women-ux-designers-in-tech/)
 - [ChicagoRuby](https://www.meetup.com/chicagoruby/)
+- [ChiSec](https://infosec.exchange/@chisec)
 - [ChiTechBio](https://www.meetup.com/chitownbio/)
 - [CHI-NOG (Chicago Network Operators Group)](https://chinog.org/)
 - [Cloud Security Alliance, Chicago Chapter](https://www.meetup.com/meetup-group-tyemzklu/)
