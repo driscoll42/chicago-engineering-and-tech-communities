@@ -140,6 +140,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 - [BurbSec: Chicagoland’s Largest Information Security Meetups!](https://www.meetup.com/burbsec/)
 - [Chi Hack Night](https://chihacknight.org/)
+- [ChicaGo](https://www.meetup.com/chicagogo/)
 - [Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
 - [Chicago C/C++ Users Group](https://www.meetup.com/chicago-c-cpp-users-group/)
 - [Chicago Chapter of ACM](http://www.chicagoacm.org/)
@@ -188,6 +189,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
 - [Tech Salon Chicago](https://www.meetup.com/tech-salon-chicago/)
+- [Ukranian IT Cluster](https://www.meetup.com/ukrainian-it-cluster/)
 - [UniForum Chicago](https://www.meetup.com/uniforum-chicago/)
 - [UX Book Club Chicago](https://www.meetup.com/uxchicago/)
 - [Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)
