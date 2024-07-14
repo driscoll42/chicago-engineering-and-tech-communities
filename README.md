@@ -8,6 +8,7 @@ Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-c
 
 - [Non-Tech Organizations/Groups/Communities](#non-tech-organizationsgroupscommunities)
 - [Identity-Focused](#identity-focused)
+- [Online Chicago Communities](#online-chicago-communities)
 - [Tech Organizations/Groups/Communities](#tech-organizationsgroupscommunities)
 - [Non-Profit/Volunteer](#non-profitvolunteer)
 - [Incubators/Accelerators](#incubatorsaccelerators)
@@ -73,6 +74,41 @@ Generally organizations focused on promoting diversity of identities in various 
 - [StartOut](https://startout.org/) - Has Chicago chapter
 - [Women in Data Science](https://widschicago.org/)
 
+## Online Chicago Communities
+
+While the strong preference and focus of this page is to focus on in-person meetups, there is a place for slacks/discords/other of online groups focused in the Chicago region. To be in this section, there needs to be a specific focus on Chicago either on the entire commnunity, or at least a channel for Chicago. Many of these have requirements to join, e.g. you need to be invited, so you may need to attend an event in person first. 
+
+#### Personal Favorites of @driscoll42
+
+These are the ones that I (@driscoll42) enjoy the most, from a combination of amount of activity on the channels/apps and lack of spam. Some are less active than others on the list, but much of that "activity" can be a bit spammy. I admit that some of the others I just know less as it's an area that's not my focus so they could be totally fine
+
+- [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA) - A slack clearly
+- [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) - Chicago Slack Channel - Must reqeust access
+- [Chicago Machine Learning Paper Reading Group](https://www.meetup.com/chicago-machine-learning-paper-reading-group/) - Discord
+- [ChiPy](https://www.chipy.org/) - slack - Must request access from existing user
+
+The rest are all worth checking out to stay in touch with the Chicago community at your work desk, or if you are exploring moving to the area!
+
+- [AI at Work Chicago](https://www.meetup.com/chicago-ai-at-work/) - Discord
+- [AI Tinkerers](https://chicago.aitinkerers.org/) - Chicago Discord Channel
+- [AICamp](https://www.meetup.com/aittg-chicago/) - Chicago Slack Channel
+- [AWS Chicago User Group](https://www.meetup.com/aws-chicago/) - Slack
+- [Burbsec](https://www.meetup.com/burbsec/) - Discord
+- [Chicago AI/ML/Data Developers Group](https://www.meetup.com/aittg-chicago/) - Chicago Slack Channel
+- [Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/) - Chicago Discord Channel
+- [Chicago Java Users Group](https://www.meetup.com/js-chi/) - Discord
+- [Chicago JavaScript](https://www.meetup.com/js-chi/) - Chyicago Discord Channel
+- [Chicago ML](https://www.meetup.com/Chicago-ML/)
+- [Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref) - Slack
+- [Chi Tech Diversity](http://www.chitechdiversity.com/#join-slack) - Slack - Must reqeust access
+- [dbt](https://www.meetup.com/chicago-dbt-meetup/) - Chicago Slack Channel
+- [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/) - Discord
+- [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
+- [MLOps](https://www.meetup.com/mlops-chicago/) - Chicago Slack Channel
+- [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
+- [Pumping Station One](https://pumpingstationone.org/) - Slack - Must be a member to join
+- [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) - Slack - Must request access
+
 ## Tech Organizations/Groups/Communities
 
 ### Data/ML/DS-Focused
@@ -134,8 +170,6 @@ Generally organizations focused on promoting diversity of identities in various 
 
 ### General/Others
 
-- [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
-  - This is a tech community focused in Chicago, good resource to network and visit the job boards
 - [AWE Nite Chicago](https://www.meetup.com/awenitechicago/)
 - [AWS Chicago](https://www.chicagoaws.com/)
 - [Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
