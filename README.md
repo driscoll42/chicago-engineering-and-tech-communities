@@ -137,6 +137,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [IDEAL Institute](https://www.ideal-institute.org/)
 - [MLOps Chicago](https://www.meetup.com/mlops-chicago/)
 - [PyData Chicago](https://www.meetup.com/pydatachi/)
+- [SignalWire Code and Connect AI Low Code and Networking](https://www.meetup.com/signalwire-code-and-connect-ai-low-code-and-networking/)
 - [Women in Data Science](https://widschicago.org/)
 
 ### Crypto/Blockchain
@@ -204,6 +205,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [ChicagoRuby](https://www.meetup.com/chicagoruby/)
 - [ChiSec](https://infosec.exchange/@chisec)
 - [ChiTechBio](https://www.meetup.com/chitownbio/)
+- [ChiTownBio](https://www.meetup.com/chitownbio/)
 - [CHI-NOG (Chicago Network Operators Group)](https://chinog.org/)
 - [Cloud Security Alliance, Chicago Chapter](https://www.meetup.com/meetup-group-tyemzklu/)
 - [Codecademy + 100Devs Chicago Meetup](https://www.meetup.com/100devs-meetup-group/)
@@ -211,6 +213,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [DevOps Chicago](https://www.meetup.com/devops/)
 - [Discover Technology](https://www.meetup.com/discover-technology/)
 - [Drupal Chicago](https://www.meetup.com/drupalchicago/)
+- [Ecommerce Technology | Customer Experience](https://www.meetup.com/digital-commerce-meetup-group/)
 - [Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/)
 - [IEEE Chicago](https://ieeechicago.org/)
@@ -220,6 +223,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [NSCoder + CocoaHeads Chicago](https://www.meetup.com/nscoder-chicago/)
 - [OpenHack Chicago](https://www.meetup.com/chicago-open-hack/)
 - [OpenSearch Project - Chicago](https://www.meetup.com/opensearch-project-chicago/)
+- [Open Code Chicago](https://www.meetup.com/open-code-chicago/)
 - [P33 Chicago](https://p33chicago.com/)
 - [React Chicago](https://www.meetup.com/react-chicago/)
 - [TechChicago](https://gotechchicago.com/events/)
