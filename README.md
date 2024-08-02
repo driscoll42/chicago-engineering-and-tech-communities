@@ -80,7 +80,7 @@ While the strong preference and focus of this page is to focus on in-person meet
 
 #### Personal Favorites of @driscoll42
 
-These are the ones that I (@driscoll42) enjoy the most, from a combination of amount of activity on the channels/apps and lack of spam. Some are less active than others on the list, but much of that "activity" can be a bit spammy. I admit that some of the others I just know less as it's an area that's not my focus so they could be totally fine
+These are the ones that I (@driscoll42) enjoy the most, from a combination of amount of activity on the channels/apps and lack of spam. Some are less active than others on the list, but much of that "activity" can be a bit spammy. I admit that some of the others I just know less as it's an area that's not my focus so I encourage checking out all that interest you and make your own call.
 
 - [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA) - A slack clearly
 - [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) - Chicago Slack Channel - Must reqeust access
