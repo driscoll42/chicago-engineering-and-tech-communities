@@ -97,7 +97,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago AI/ML/Data Developers Group](https://www.meetup.com/aittg-chicago/) - Chicago Slack Channel
 - [Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/) - Chicago Discord Channel
 - [Chicago Java Users Group](https://www.meetup.com/js-chi/) - Discord
-- [Chicago JavaScript](https://www.meetup.com/js-chi/) - Chyicago Discord Channel
+- [Chicago JavaScript](https://www.meetup.com/js-chi/) - Chicago Discord Channel
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
 - [Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref) - Slack
 - [Chi Tech Diversity](http://www.chitechdiversity.com/#join-slack) - Slack - Must reqeust access
