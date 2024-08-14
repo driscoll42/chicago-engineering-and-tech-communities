@@ -104,7 +104,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [dbt](https://www.meetup.com/chicago-dbt-meetup/) - Chicago Slack Channel
 - [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/) - Discord
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
-- [MLOps](https://www.meetup.com/mlops-chicago/) - Chicago Slack Channel
+- [MLOps](https://lu.ma/chicago-mlops) - Chicago Slack Channel
 - [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
 - [Pumping Station One](https://pumpingstationone.org/) - Slack - Must be a member to join
 - [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) - Slack - Must request access
@@ -135,7 +135,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Couchbase Midwest](https://www.meetup.com/couchbase-midwest/)
 - [Creative AI](https://www.meetup.com/creativeai-chicago/)
 - [IDEAL Institute](https://www.ideal-institute.org/)
-- [MLOps Chicago](https://www.meetup.com/mlops-chicago/)
+- [MLOps Chicago](https://lu.ma/chicago-mlops) - Defunct [Meetup page](https://www.meetup.com/mlops-chicago/)
 - [PyData Chicago](https://www.meetup.com/pydatachi/)
 - [SignalWire Code and Connect AI Low Code and Networking](https://www.meetup.com/signalwire-code-and-connect-ai-low-code-and-networking/)
 - [Women in Data Science](https://widschicago.org/)
