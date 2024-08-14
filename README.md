@@ -59,7 +59,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 - [Chicago Women in Tech](https://chiwomenintech.com/)
 - [Chicago Women UX Designers in Tech](https://www.meetup.com/chicago-women-ux-designers-in-tech/)
-- [Fintech Women](https://www.nycfintechwomen.com/) - Chicago chapter just launched ([event link](https://www.nycfintechwomen.com/event-info/chicago-chapter-launch)); no specific website yet.
+- [FinTech Women](https://www.nycfintechwomen.com/events) - It does not appear there's a specific Chicago section, but check the events and there's some Chicago events from time to time
 - [Gen Z VCs](https://www.genzvcs.com/) - Has Chicago chapter
 - [GENESIS](https://www.joingenesis.org/)
 - [Girls 4 Science](https://girls4science.org/)
@@ -262,7 +262,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 - [Bunker Labs](https://bunkerlabs.org/) - Veteran-led businesses
 - [Cleveland Avenue](http://www.clevelandavenue.com/) - Food, beverage, and tech businesses
 - [Elmspring Accelerator](http://elmspringaccelerator.com/) - Real estate and housing tech
-- [Financial Solutions Lab](http://finlab.finhealthnetwork.org/accelerator/) - fintech
+- [Financial Solutions Lab](http://finlab.finhealthnetwork.org/accelerator/) - FinTech
 - [Healthbox](https://healthbox.com/) - Health tech
 - [Insight Accelerator Labs](https://insightpd.com/accelerator/insight-accelerator-labs/) - Healthcare
 - [MATTER](https://matter.health/) - Healthcare
