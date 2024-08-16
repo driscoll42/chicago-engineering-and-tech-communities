@@ -92,6 +92,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [AI at Work Chicago](https://www.meetup.com/chicago-ai-at-work/) - Discord
 - [AI Tinkerers](https://chicago.aitinkerers.org/) - Chicago Discord Channel
 - [AICamp](https://www.meetup.com/aittg-chicago/) - Chicago Slack Channel
+- [Andrew Gunderman Chicago Startup Ecosystem Slack](https://join.slack.com/t/agchicagosecosystem/shared_invite/zt-2oxtccodd-Xxqst67LN6Hl~mRTwQXa4g)
 - [AWS Chicago User Group](https://www.meetup.com/aws-chicago/) - Slack
 - [Burbsec](https://www.meetup.com/burbsec/) - Discord
 - [Chicago AI/ML/Data Developers Group](https://www.meetup.com/aittg-chicago/) - Chicago Slack Channel
@@ -104,6 +105,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [dbt](https://www.meetup.com/chicago-dbt-meetup/) - Chicago Slack Channel
 - [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/) - Discord
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
+- [Intruencer](https://www.intruencer.com/) - A Chicago focused 
 - [MLOps](https://lu.ma/chicago-mlops) - Chicago Slack Channel
 - [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
 - [Pumping Station One](https://pumpingstationone.org/) - Slack - Must be a member to join
