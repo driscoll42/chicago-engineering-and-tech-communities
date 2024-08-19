@@ -139,6 +139,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Couchbase Midwest](https://www.meetup.com/couchbase-midwest/)
 - [Creative AI](https://www.meetup.com/creativeai-chicago/)
 - [IDEAL Institute](https://www.ideal-institute.org/)
+- [MeasureCamp Chicago](https://chicago.measurecamp.org/)
 - [MLOps Chicago](https://lu.ma/chicago-mlops) - Defunct [Meetup page](https://www.meetup.com/mlops-chicago/)
 - [PyData Chicago](https://www.meetup.com/pydatachi/)
 - [SignalWire Code and Connect AI Low Code and Networking](https://www.meetup.com/signalwire-code-and-connect-ai-low-code-and-networking/)
