@@ -97,6 +97,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Burbsec](https://www.meetup.com/burbsec/) - Discord
 - [Chicago AI/ML/Data Developers Group](https://www.meetup.com/aittg-chicago/) - Chicago Slack Channel
 - [Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/) - Chicago Discord Channel
+- [Chicago Data Visualization Society Group](https://www.datavisualizationsociety.org/local-affiliated-groups) - Chicago Slack Channel
 - [Chicago Java Users Group](https://www.meetup.com/js-chi/) - Discord
 - [Chicago JavaScript](https://www.meetup.com/js-chi/) - Chicago Discord Channel
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
@@ -124,6 +125,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago Analytics and Data Science in the Cloud](https://www.meetup.com/chicago-analytics-and-data-science-in-the-cloud/)
 - [Chicago Data Community](https://www.linkedin.com/groups/14156219/)
 - [Chicago Data Professionals](https://www.meetup.com/chicagodataprofessionals/)
+- [Chicago Data Visualization Society Group](https://www.datavisualizationsociety.org/local-affiliated-groups)
 - [Chicago dbt Meetup](https://www.meetup.com/chicago-dbt-meetup/)
 - [Chicago Machine Learning Developers](https://www.meetup.com/chicagomldsdev/)
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
