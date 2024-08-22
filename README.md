@@ -271,7 +271,7 @@ Perhaps surprising to many, Chicago has a vibrant startup community with incubat
 - [Healthbox](https://healthbox.com/) - Health tech
 - [Insight Accelerator Labs](https://insightpd.com/accelerator/insight-accelerator-labs/) - Healthcare
 - [MATTER](https://matter.health/) - Healthcare
-- [mHUB](https://www.builtinchicago.org/company/mhub) - Hardware, medtech
+- [mHUB](https://www.mhubchicago.com/) - Hardware, medtech
 - [Moderne Ventures](http://www.moderneventures.com/passport/) - Real estate, insurance, finance, hospitality, and home services
 - [NAR Reach](http://nar-reach.com/reach-2022/) - Real estate tech
 - [Nemera Insight Accelerator Labs](http://insightpd.com/accelerator/insight-accelerator-labs/) - Medtech
