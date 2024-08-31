@@ -188,6 +188,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago Cyber Circle](https://www.meetup.com/chicago-cyber-circle/)
 - [Chicago Design Systems](https://www.meetup.com/chicagodesignsystems/)
 - [Chicago EdTech Meetups](https://lu.ma/user/usr-axAqah5w43Nbx7B)
+- [Chicago Flutter](https://chicagoflutter.com/)
 - [Chicago Food Tech](https://www.meetup.com/chicago-food-tech/)
 - [Chicago Haskell](https://www.meetup.com/chicago-haskell/)
 - [Chicago HTML5](https://www.meetup.com/chicago-html5/)
