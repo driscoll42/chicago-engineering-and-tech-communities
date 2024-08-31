@@ -220,6 +220,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Drupal Chicago](https://www.meetup.com/drupalchicago/)
 - [Ecommerce Technology | Customer Experience](https://www.meetup.com/digital-commerce-meetup-group/)
 - [Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)
+- [Google Developer Group Chicago](https://gdg.community.dev/gdg-chicago/)
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/)
 - [IEEE Chicago](https://ieeechicago.org/)
 - [Information Systems Security Association (ISSA) Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/)
