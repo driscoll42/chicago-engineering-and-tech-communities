@@ -181,7 +181,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [AWS Chicago](https://www.chicagoaws.com/)
 - [Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 - [BurbSec: Chicagoland’s Largest Information Security Meetups!](https://www.meetup.com/burbsec/)
-- [Chi Hack Night](https://chihacknight.org/)
+- [Chi Hack Night](https://chihacknight.org/) - [Eventbrite page](https://www.eventbrite.com/o/chi-hack-night-2890910705)
 - [ChicaGo](https://www.meetup.com/chicagogo/)
 - [Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
 - [Chicago C/C++ Users Group](https://www.meetup.com/chicago-c-cpp-users-group/)
