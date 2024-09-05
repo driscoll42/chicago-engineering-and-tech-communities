@@ -144,7 +144,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [MLOps Chicago](https://lu.ma/chicago-mlops) - Defunct [Meetup page](https://www.meetup.com/mlops-chicago/)
 - [PyData Chicago](https://www.meetup.com/pydatachi/)
 - [SignalWire Code and Connect AI Low Code and Networking](https://www.meetup.com/signalwire-code-and-connect-ai-low-code-and-networking/)
-- [University of chicago Data Science Institute](https://datascience.uchicago.edu/)
+- [University of Chicago Data Science Institute](https://datascience.uchicago.edu/)
 - [Women in Data Science](https://widschicago.org/)
 
 ### Crypto/Blockchain
