@@ -184,6 +184,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [BurbSec: Chicagoland’s Largest Information Security Meetups!](https://www.meetup.com/burbsec/)
 - [Chi Hack Night](https://chihacknight.org/) - [Eventbrite page](https://www.eventbrite.com/o/chi-hack-night-2890910705)
 - [ChicaGo](https://www.meetup.com/chicagogo/)
+- [Chicago 3D Printing Meetup Group](https://www.meetup.com/chicago-3d-printing-meetup-group/)
 - [Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
 - [Chicago C/C++ Users Group](https://www.meetup.com/chicago-c-cpp-users-group/)
 - [Chicago Chapter of ACM](http://www.chicagoacm.org/)
