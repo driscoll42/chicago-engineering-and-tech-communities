@@ -109,6 +109,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
 - [Intruencer](https://www.intruencer.com/) - A Chicago focused 
 - [MLOps](https://lu.ma/chicago-mlops) - Chicago Slack Channel
+- [mochachats.ai](https://join.slack.com/t/mochachats/shared_invite/zt-2o19asgzk-AvLIe2glc1o_K7cO_S23Tw) - Slack
 - [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
 - [Pumping Station One](https://pumpingstationone.org/) - Slack - Must be a member to join
 - [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) - Slack - Must request access
@@ -229,6 +230,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [IEEE Chicago](https://ieeechicago.org/)
 - [Information Systems Security Association (ISSA) Chicago Chapter](https://www.meetup.com/issa-chicago-chapter/)
 - [IxDA Chicago](https://www.meetup.com/IxDAChicago/)
+- [mochachats.ai](https://mochachats.github.io/mochachats/)
 - [NERP - Not Exclusively Raspberry Pi](https://www.meetup.com/nerp-not-exclusively-raspberry-pi/)
 - [NSCoder + CocoaHeads Chicago](https://www.meetup.com/nscoder-chicago/)
 - [OpenHack Chicago](https://www.meetup.com/chicago-open-hack/)
