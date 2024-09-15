@@ -45,13 +45,11 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                 if json_data['location']['address'] == 'Register to See Address' and json_data['location']['name'] == "Chicago, Illinois":
                     eventAddress = 'Register to See Address'
                     eventCity = 'Chicago'
-                    eventState = 'Illinois'
                     eventGoogleMaps = ''
                 else:
                     try:
                         eventAddress = event['location']['address']['streetAddress']
                         eventCity = event['location']['address']['addressLocality']
-                        eventState = event['location']['address']['addressRegion']
                         eventVenueName = json_data['location']['name']
 
                         maps_links = soup.find('a', href=lambda href: href and 'https://www.google.com/maps/' in href)
@@ -59,11 +57,10 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                     except:
                         eventAddress = ''
                         eventCity = ''
-                        eventState = ''
                         eventGoogleMaps = ''
                 if eventCity == 'Chicago':
                     event_data.append(
-                        [eventName, eventURL, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity, eventState,
+                        [eventName, eventURL, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity, 'IL',
                          groupName, eventGoogleMaps, event_description, datetimeScraped])
             except Exception as e:
                 if verbose or debug: print(e)
