@@ -28,6 +28,10 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                 eventURL = event['@id']
                 if verbose: print(eventURL)
                 response = session.get(eventURL)
+                if response.from_cache:
+                    datetimeScraped = response.created_at
+                else:
+                    datetimeScraped = pd.to_datetime('now').strftime('%Y-%m-%dT%H:%M:%S%z')
                 if not response.from_cache:
                     sleep(sleep_time)
 
@@ -60,7 +64,7 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                 if eventCity == 'Chicago':
                     event_data.append(
                         [eventName, eventURL, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity, eventState,
-                         groupName, eventGoogleMaps, event_description])
+                         groupName, eventGoogleMaps, event_description, datetimeScraped])
             except Exception as e:
                 if verbose or debug: print(e)
 

@@ -69,13 +69,16 @@ def get_mhub_events(sleep_time=2, verbose=False, debug=True):
             eventURL = event.find('a')['href']
             eventURL = f"https://www.mhubchicago.com{eventURL}"
             response = session.get(eventURL)
+            if response.from_cache:
+                datetimeScraped = response.created_at
+            else:
+                datetimeScraped = pd.to_datetime('now').strftime('%Y-%m-%dT%H:%M:%S%z')
             eventVenueName, eventAddress, eventCity, eventState, eventGoogleMaps, eventStartTime, event_description = get_mHub_event_details(
                     response)
             if eventVenueName is not None:
                 event_data.append(
                         [eventName, eventURL, eventStartTime, '', eventVenueName, eventAddress, eventCity, eventState,
-                         'mHUB',
-                         eventGoogleMaps, event_description])
+                         'mHUB', eventGoogleMaps, event_description, datetimeScraped])
             if not response.from_cache:
                 sleep(sleep_time)
         except Exception as e:

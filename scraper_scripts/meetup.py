@@ -4,7 +4,7 @@ import feedparser
 from time import sleep
 from common import list_to_df
 import requests_cache
-
+import pandas as pd
 
 def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
     session = requests_cache.CachedSession('eventCache')
@@ -26,6 +26,11 @@ def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
     meetup_event_detail_list = []
     for event in meetup_event_list:
         response = session.get(event)
+        if response.from_cache:
+            datetimeScraped = response.created_at
+        else:
+            datetimeScraped = pd.to_datetime('now').strftime('%Y-%m-%dT%H:%M:%S%z')
+
         try:
             soup = BeautifulSoup(response.text, 'html.parser')
             if soup.title.string == 'Login to Meetup | Meetup':
@@ -48,8 +53,7 @@ def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
             eventGoogleMaps = soup.find('a', {'data-event-label': 'event-location'})['href']
             meetup_event_detail_list.append(
                     [eventName, event, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity,
-                     eventState,
-                     groupName, eventGoogleMaps, event_description])
+                     eventState, groupName, eventGoogleMaps, event_description, datetimeScraped])
             if verbose: print(event)
         except Exception as e:
             if debug: print('Exception', event, e)
