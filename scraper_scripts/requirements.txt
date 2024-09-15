@@ -1,0 +1,8 @@
+pandas
+requests
+feedparser
+requests_cache
+gspread
+oauth2client
+bs4
+json

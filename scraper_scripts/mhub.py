@@ -1,6 +1,4 @@
 from bs4 import BeautifulSoup
-import json
-import feedparser
 from time import sleep
 from common import list_to_df
 import requests_cache
