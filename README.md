@@ -105,6 +105,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref) - Slack
 - [Chi Hack Night](slackme.chihacknight.org) - Slack
 - [Chi Tech Diversity](http://www.chitechdiversity.com/#join-slack) - Slack - Must reqeust access
+- 
 - [dbt](https://www.meetup.com/chicago-dbt-meetup/) - Chicago Slack Channel
 - [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/) - Discord
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
@@ -112,6 +113,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [MLOps](https://lu.ma/chicago-mlops) - Chicago Slack Channel
 - [mochachats.ai](https://join.slack.com/t/mochachats/shared_invite/zt-2o19asgzk-AvLIe2glc1o_K7cO_S23Tw) - Slack
 - [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
+- [People of Color Code](https://www.peopleofcolorcode.com/) - Chicago Slack Channel
 - [Pumping Station One](https://pumpingstationone.org/) - Slack - Must be a member to join
 - [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) - Slack - Must request access
 
@@ -238,6 +240,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [OpenSearch Project - Chicago](https://www.meetup.com/opensearch-project-chicago/)
 - [Open Code Chicago](https://www.meetup.com/open-code-chicago/)
 - [P33 Chicago](https://p33chicago.com/)
+- [People of Color Code](https://www.peopleofcolorcode.com)
 - [React Chicago](https://www.meetup.com/react-chicago/)
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
