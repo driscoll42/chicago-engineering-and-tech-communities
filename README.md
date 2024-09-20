@@ -68,6 +68,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [National Society of Black Engineers (NSBE) - Chicago](https://www.chicagonsbe.org/)
 - [Out In Tech](https://outintech.com/) - Has Chicago chapter
 - [P33 Chicago](https://p33chicago.com/)
+- [People of Color Code](https://www.peopleofcolorcode.com/) - Chicago based, slack channel and in-person meetups
 - [Professional Women in Construction](https://chicago.pwcusa.org/)
 - [Society of Hispanic Professional Engineers (SHPE) - Region 6](https://shpe.org/membership/regions/region-6/)
 - [Society of Women Engineers (SWE) - Chicago](https://chicago.swe.org/)
