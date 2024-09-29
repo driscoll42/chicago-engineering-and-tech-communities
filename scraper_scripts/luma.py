@@ -46,6 +46,7 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                     eventAddress = 'Register to See Address'
                     eventCity = 'Chicago'
                     eventGoogleMaps = ''
+                    eventVenueName = ''
                 else:
                     try:
                         eventAddress = event['location']['address']['streetAddress']
@@ -58,6 +59,7 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                         eventAddress = ''
                         eventCity = ''
                         eventGoogleMaps = ''
+                        eventVenueName = ''
                 if eventCity == 'Chicago':
                     event_data.append(
                         [eventName, eventURL, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity, 'IL',
