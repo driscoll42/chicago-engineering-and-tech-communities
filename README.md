@@ -74,6 +74,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Society of Women Engineers (SWE) - Chicago](https://chicago.swe.org/)
 - [StartOut](https://startout.org/) - Has Chicago chapter
 - [Women in Data Science](https://widschicago.org/)
+- [Women in Product](https://womenpm.org/join-our-community/chicago/)
 
 ## Online Chicago Communities
 
@@ -251,6 +252,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [UX Book Club Chicago](https://www.meetup.com/uxchicago/)
 - [Virtual & Augmented Reality (VR/AR) Chicago](https://www.meetup.com/vrarchicago/)
 - [Windy City Linux Users Group](https://www.meetup.com/wclug-org/)
+- [Women in Product](https://womenpm.org/join-our-community/chicago/)
 
 ## Non-Profit/Volunteer
 
