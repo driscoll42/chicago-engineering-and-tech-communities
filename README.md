@@ -207,6 +207,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago Python User Group](https://www.chipy.org/)
 - [Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref)
 - [Chicago R-Ladies Group](https://www.meetup.com/rladies-chicago/)
+- [Chicago React Native Meetup](https://www.meetup.com/chicago-react-native-meetup/)
 - [Chicago Red Hat User Group](https://www.meetup.com/rhug-chicago/)
 - [Chicago Search Community](https://www.meetup.com/opensearch-project-chicago/)
 - [Chicago Seleniumistas](https://www.meetup.com/chicago-seleniumistas/)
@@ -240,6 +241,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Open Code Chicago](https://www.meetup.com/open-code-chicago/)
 - [P33 Chicago](https://p33chicago.com/)
 - [People of Color Code](https://www.peopleofcolorcode.com)
+- [ProductTank Chicagp](https://www.meetup.com/producttank-chicago/)
 - [React Chicago](https://www.meetup.com/react-chicago/)
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
