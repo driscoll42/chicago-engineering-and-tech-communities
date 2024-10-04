@@ -114,7 +114,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [mochachats.ai](https://join.slack.com/t/mochachats/shared_invite/zt-2o19asgzk-AvLIe2glc1o_K7cO_S23Tw) - Slack
 - [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
 - [People of Color Code](https://www.peopleofcolorcode.com/) - Chicago Slack Channel
-- [Pumping Station One](https://pumpingstationone.org/) - Slack - Must be a member to join
+- [Pumping Station One](https://pumpingstationone.org/) - Discord - Must be a member to join
 - [R-Ladies Chicago](https://www.meetup.com/rladies-chicago/) - Slack - Must request access
 
 ## Tech Organizations/Groups/Communities
