@@ -223,6 +223,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [CHI-NOG (Chicago Network Operators Group)](https://chinog.org/)
 - [Cloud Security Alliance, Chicago Chapter](https://www.meetup.com/meetup-group-tyemzklu/)
 - [Codecademy + 100Devs Chicago Meetup](https://www.meetup.com/100devs-meetup-group/)
+- [Cyberjam](https://www.meetup.com/cyberjam/)
 - [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/)
 - [DevOps Chicago](https://www.meetup.com/devops/)
 - [Discover Technology](https://www.meetup.com/discover-technology/)
