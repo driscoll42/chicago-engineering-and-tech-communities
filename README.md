@@ -138,6 +138,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Compute Collective, The](https://lu.ma/thecomputecollective)
 - [Couchbase Midwest](https://www.meetup.com/couchbase-midwest/)
 - [Creative AI](https://www.meetup.com/creativeai-chicago/)
+- [Data Science Institute, The University of Chicago](https://datascience.uchicago.edu/) - [Meetup Page](https://www.meetup.com/chicago-data-night/)
 - [IDEAL Institute](https://www.ideal-institute.org/)
 - [MeasureCamp Chicago](https://chicago.measurecamp.org/)
 - [MLOps Chicago](https://lu.ma/chicago-mlops) - Defunct [Meetup page](https://www.meetup.com/mlops-chicago/)
@@ -152,13 +153,16 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Bitcoin Chicago Meetup](https://www.meetup.com/chicago_bitcoin/)
 - [Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
 - [Chicago Crypto Art](https://www.meetup.com/chicago-crypto-art/)
+- [Chicago Stellar - Blockchain, Cryptocurrency, Fintech Meetup](https://www.meetup.com/chicago-stellar-blockchain-cryptocurrency-fintech-meetup/)
 - [ETHChicago](https://www.ethchicago.xyz/)
+- [SatoshiFanClub](https://www.meetup.com/satoshifanclub/)
 
 ### Social
 
 - [312Coders](https://www.meetup.com/312-coders/)
 - [Chicago Code and Coffee](https://www.meetup.com/code-and-coffee-chicago/)
 - [Chicago Digital Nomads](https://www.meetup.com/chicago-coworking-space-meetup-group/)
+- [Software Social](https://www.meetup.com/meetup-group-spzbpenk/)
 
 ### Startup
 
@@ -181,6 +185,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
 - [BurbSec: Chicagoland’s Largest Information Security Meetups!](https://www.meetup.com/burbsec/)
 - [Chi Hack Night](https://chihacknight.org/) - [Eventbrite page](https://www.eventbrite.com/o/chi-hack-night-2890910705)
+- [Chi4n6](https://www.meetup.com/chi4n6/)
 - [ChicaGo](https://www.meetup.com/chicagogo/)
 - [Chicago 3D Printing Meetup Group](https://www.meetup.com/chicago-3d-printing-meetup-group/)
 - [Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
@@ -206,6 +211,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)
 - [Chicago Women in Tech](https://chiwomenintech.com/)
 - [Chicago Women UX Designers in Tech](https://www.meetup.com/chicago-women-ux-designers-in-tech/)
+- [Chicagoland Cybersecurity Exchange](https://www.meetup.com/chicagoland-cybersecurity-exchange/)
 - [ChicagoRuby](https://www.meetup.com/chicagoruby/)
 - [ChiSec](https://infosec.exchange/@chisec)
 - [ChiTechBio](https://www.meetup.com/chitownbio/)
@@ -237,6 +243,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
 - [Tech Salon Chicago](https://www.meetup.com/tech-salon-chicago/)
+- [The NHI Collective, Chicago](https://www.meetup.com/nhi-collective-chicago/)
 - [Ukranian IT Cluster](https://www.meetup.com/ukrainian-it-cluster/)
 - [UniForum Chicago](https://www.meetup.com/uniforum-chicago/)
 - [UX Book Club Chicago](https://www.meetup.com/uxchicago/)
