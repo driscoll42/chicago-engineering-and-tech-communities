@@ -266,6 +266,7 @@ Organizations focused on providing opportunities for engineers to volunteer thei
 - [Everyone Can Code Chicago](https://www.eccchicago.org/)
 - [Girls 4 Science](https://girls4science.org/)
 - [Project SYNCERE](https://projectsyncere.org/)
+- [Tutor Mentor Institute](https://www.tutormentorexchange.net/)
 
 ## Incubators/Accelerators
 
@@ -321,6 +322,7 @@ Universities are the core of many engineering studies around the world that are 
 
 For other groups that are not directly engineering related, but I feel are worth bringing to the attention of engineers in Chicago.
 
+- [Tutor Mentor Institute Tech Resources & Networks](https://www.tutormentorexchange.net/resource-links/tech-digital-divide/tech-networks-resources) - A list of tech resources and networks across Illinois (data portals, policy groups, meetups, others)
 - [Chicago Associate Boards](https://github.com/driscoll42/chicago_young_professional_groups/tree/main) - This is a great list of various associate boards in Chicago that young professionals can join to start getting board leadership experience, and volunteering in their community.
 - [Awesome Discord Communities](https://github.com/mhxion/awesome-discord-communities/) - Not specifically Chicago, but I feel that there is a great benefit to the numerous engineering and tech Discord communities out there for anyone to be part of to learn from others.
 - [Awesome Tech Communities fork](https://github.com/MartinRosenberg/Awesome-Tech-Communities) - A list of Slack communities around the world to join
