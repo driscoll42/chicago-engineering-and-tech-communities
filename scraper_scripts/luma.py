@@ -17,8 +17,6 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
             sleep(sleep_time)
         soup = BeautifulSoup(response.text, 'html.parser')
 
-
-
         # get the contents of <script data-cfasync="false" type="application/ld+json">
         script = soup.find('script', {'type': 'application/ld+json'})
         json_data = json.loads(script.string)
@@ -42,7 +40,8 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                 event_description = json_data['description']
                 eventStartTime = json_data['startDate']
                 eventendTime = json_data['endDate']
-                if json_data['location']['address'] == 'Register to See Address' and json_data['location']['name'] == "Chicago, Illinois":
+                if json_data['location']['address'] == 'Register to See Address' and json_data['location'][
+                    'name'] == "Chicago, Illinois":
                     eventAddress = 'Register to See Address'
                     eventCity = 'Chicago'
                     eventGoogleMaps = ''
@@ -62,8 +61,9 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
                         eventVenueName = ''
                 if eventCity == 'Chicago':
                     event_data.append(
-                        [eventName, eventURL, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity, 'IL',
-                         groupName, eventGoogleMaps, event_description, datetimeScraped])
+                            [eventName, eventURL, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity,
+                             'IL',
+                             groupName, eventGoogleMaps, event_description, datetimeScraped])
             except Exception as e:
                 if verbose or debug: print(e)
 

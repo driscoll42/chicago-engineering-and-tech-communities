@@ -6,12 +6,15 @@ import requests_cache
 import pandas as pd
 import requests
 
+
 def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
     session = requests_cache.CachedSession('eventCache')
     session.settings.expire_after = 60 * 60 * 24 * 7
     meetup_event_list = []
     for cnt, meetup in enumerate(meetup_list):
         url = f'{meetup}/events/'
+        # if there is a // in the url, replace it with /
+        url = url.replace('//events/', '/events/')
         if verbose: print(f'{cnt}/{len(meetup_list)} -  {url}')
         response = requests.get(url)
         sleep(sleep_time)
@@ -67,4 +70,5 @@ def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
 
         if not response.from_cache:
             sleep(sleep_time)
+
     return list_to_df(meetup_event_detail_list)

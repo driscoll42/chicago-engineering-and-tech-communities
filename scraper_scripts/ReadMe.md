@@ -1,4 +1,4 @@
-# Scraping Scripts
+﻿# Scraping Scripts
 
 This directory contains scripts to scrape the various websites which host Chicago events. Each website has it's own .py scraping file which are run through the main.ipynb notebook.
 
