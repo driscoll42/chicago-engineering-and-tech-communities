@@ -101,7 +101,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
 - [Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref) - Slack
 - [Chi Hack Night](slackme.chihacknight.org) - Slack
-- [Chi Tech Diversity](http://www.chitechdiversity.com/#join-slack) - Slack - Must reqeust access
+- [Chi Tech Diversity](http://www.chitechdiversity.com/#join-slack) - Slack - Must request access
 - [dbt](https://www.meetup.com/chicago-dbt-meetup/) - Chicago Slack Channel
 - [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/) - Discord
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
