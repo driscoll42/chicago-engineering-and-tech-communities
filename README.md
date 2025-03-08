@@ -174,6 +174,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Founders Network](https://foundersnetwork.com/mentoring-programs/chicago/)
 - [Founder's Therapy - Chicago](https://www.meetup.com/founder-s-therapy-chicago/)
 - [Gen Z VCs](https://www.genzvcs.com/) - Has Chicago chapter
+- [Inside the Loop](https://lu.ma/itl)
 - [OraView Fire for Solopreneurs](https://www.meetup.com/oravew-fire/)
 - [[R]elaunch](https://www.meetup.com/rmfs-chicago/)
 - [StartOut](https://startout.org/) - Has Chicago chapter
