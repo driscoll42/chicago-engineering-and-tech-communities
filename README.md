@@ -82,7 +82,7 @@ These are the ones that I (@driscoll42) enjoy the most, from a combination of am
 
 - [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA) - A slack clearly
 - [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/) - Chicago Slack Channel - Must request access
-- [Chicago Machine Learning Paper Reading Group](https://www.meetup.com/chicago-machine-learning-paper-reading-group/) - Discord
+- [Chicago Machine Learning Paper Reading Group](https://lu.ma/calendar/cal-1qExjhKQejTOW8O) - Discord
 - [ChiPy](https://www.chipy.org/) - slack - Must request access from existing user
 
 The rest are all worth checking out to stay in touch with the Chicago community at your work desk, or if you are exploring moving to the area!
