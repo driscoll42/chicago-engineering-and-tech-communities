@@ -11,6 +11,9 @@ def get_luma_group_events(luma_groups, sleep_time=2, verbose=False, debug=True):
     session = requests_cache.CachedSession('eventCache')
     event_data = []
     for group_url in luma_groups:
+        if 'user' in group_url:
+            print(f'Skipping user page - {group_url}')
+            continue
         session.settings.expire_after = 60 * 60 * 24 * 7
         response = session.get(group_url)
         if not response.from_cache:
