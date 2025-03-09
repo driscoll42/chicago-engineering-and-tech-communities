@@ -101,7 +101,8 @@ def create_event_markdown(event_df, name='Events'):
         # convert a eventStartTime to a string like July 6 @ 5PM
 
         event_string += f"**[{row['eventName'].strip()}]({row['eventURL']})**\n"
-        # event_string += f"* *Organization:* {row['formatted_date']}\n\n"
+
+        event_string += f"* *Organization:* {row['groupName']}\n\n"
         event_string += f"* *When:* {row['formatted_date']}\n\n"
         event_string += f"* *Where:* {str(row['eventVenueName']).strip()}\n\n"
         # Get the first 300 characters of the description, but make sure to not cut off a word

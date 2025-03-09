@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 
 
-def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
+def get_meetup_events(meetup_list, sleep_time=2, include_virtual=False, verbose=False, debug=True):
     session = requests_cache.CachedSession('eventCache')
     session.settings.expire_after = 60 * 60 * 24 * 7
     meetup_event_list = []
@@ -50,18 +50,27 @@ def get_meetup_events(meetup_list, sleep_time=2, verbose=False, debug=True):
             next_data_script = soup.find('script', id='__NEXT_DATA__')
             json_data = json.loads(next_data_script.string)
             eventVenueName = json_data['props']['pageProps']['event']['venue']['name']
-            if eventVenueName == 'Online event':
-                if verbose: print('Online event', event)
-                pass
             event_description = json_data['props']['pageProps']['event']['description']
             eventName = json_data['props']['pageProps']['event']['title']
             eventStartTime = json_data['props']['pageProps']['event']['dateTime']
             eventendTime = json_data['props']['pageProps']['event']['endTime']
-            eventAddress = json_data['props']['pageProps']['event']['venue']['address']
-            eventCity = json_data['props']['pageProps']['event']['venue']['city']
-            eventState = json_data['props']['pageProps']['event']['venue']['state']
             groupName = json_data['props']['pageProps']['event']['group']['name']
-            eventGoogleMaps = soup.find('a', {'data-event-label': 'event-location'})['href']
+
+            if eventVenueName == 'Online event':
+                if include_virtual:
+                    eventAddress = 'Online'
+                    eventCity = ''
+                    eventState = ''
+                    eventGoogleMaps = ''
+                else:
+                    if verbose: print('Online event', event)
+                    pass
+            elif eventVenueName != 'Online event':
+                eventAddress = json_data['props']['pageProps']['event']['venue']['address']
+                eventCity = json_data['props']['pageProps']['event']['venue']['city']
+                eventState = json_data['props']['pageProps']['event']['venue']['state']
+                eventGoogleMaps = soup.find('a', {'data-event-label': 'event-location'})['href']
+
             meetup_event_detail_list.append(
                     [eventName, event, eventStartTime, eventendTime, eventVenueName, eventAddress, eventCity,
                      eventState, groupName, eventGoogleMaps, event_description, datetimeScraped])
