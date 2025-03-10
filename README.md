@@ -209,6 +209,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago R-Ladies Group](https://www.meetup.com/rladies-chicago/)
 - [Chicago React Native Meetup](https://www.meetup.com/chicago-react-native-meetup/)
 - [Chicago Red Hat User Group](https://www.meetup.com/rhug-chicago/)
+- [Chicago Tech Community](https://www.linkedin.com/groups/14554472/)
 - [Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 - [Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)
 - [Chicago Women in Tech](https://chiwomenintech.com/)
