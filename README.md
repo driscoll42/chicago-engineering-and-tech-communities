@@ -100,10 +100,10 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago JavaScript](https://www.meetup.com/js-chi/) - Chicago Discord Channel
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
 - [Chicago R User Group](https://www.meetup.com/chicago-r-user-group/?from=ref) - Slack
+- [Chicago Rust Meetup](https://www.meetup.com/chicago-rust-meetup/) - Discord
 - [Chi Hack Night](slackme.chihacknight.org) - Slack
 - [Chi Tech Diversity](http://www.chitechdiversity.com/#join-slack) - Slack - Must request access
 - [dbt](https://www.meetup.com/chicago-dbt-meetup/) - Chicago Slack Channel
-- [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/) - Discord
 - [Grafana & Friends Chicago](https://www.meetup.com/grafana-and-friends-chicago/) - Chicago Slack Channel
 - [Intruencer](https://www.intruencer.com/) - A Chicago focused 
 - [MLOps](https://lu.ma/chicago-mlops) - Chicago Slack Channel
@@ -131,8 +131,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago dbt Meetup](https://www.meetup.com/chicago-dbt-meetup/)
 - [Chicago Machine Learning Developers](https://www.meetup.com/chicagomldsdev/)
 - [Chicago ML](https://www.meetup.com/Chicago-ML/)
-- [Chicago ML and Data Science](https://www.meetup.com/chicago-ml-data-science/)
-- [Chicago Machine Learning Paper Reading Group](https://www.meetup.com/chicago-machine-learning-paper-reading-group/)
+- [Chicago Machine Learning Paper Reading Group](https://lu.ma/calendar/cal-1qExjhKQejTOW8O)
 - [Chicago Open Source Data Infrastructure Meetup](https://www.meetup.com/chicago-open-source-data-infrastructure-meetup/)
 - [Chicago PostgreSQL Meetup Group](https://www.meetup.com/chicago-postgresql-user-group/)
 - [Chicago Snowflake Meetup](https://www.meetup.com/chicago-snowflake-users/)
@@ -142,7 +141,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Data Science Institute, The University of Chicago](https://datascience.uchicago.edu/) - [Meetup Page](https://www.meetup.com/chicago-data-night/)
 - [IDEAL Institute](https://www.ideal-institute.org/)
 - [MeasureCamp Chicago](https://chicago.measurecamp.org/)
-- [MLOps Chicago](https://lu.ma/chicago-mlops) - Defunct [Meetup page](https://www.meetup.com/mlops-chicago/)
+- [MLOps Chicago](https://lu.ma/chicago-mlops)
 - [PyData Chicago](https://www.meetup.com/pydatachi/)
 - [SignalWire Code and Connect AI Low Code and Networking](https://www.meetup.com/signalwire-code-and-connect-ai-low-code-and-networking/)
 - [University of Chicago Data Science Institute](https://datascience.uchicago.edu/)
@@ -153,7 +152,6 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Bitcoin & Open Blockchain Community - Chicago](https://www.meetup.com/bitcoin-open-blockchain-community-chicago/)
 - [Bitcoin Chicago Meetup](https://www.meetup.com/chicago_bitcoin/)
 - [Chicago BITDEVS](https://www.meetup.com/chibitdevs/)
-- [Chicago Crypto Art](https://www.meetup.com/chicago-crypto-art/)
 - [Chicago Stellar - Blockchain, Cryptocurrency, Fintech Meetup](https://www.meetup.com/chicago-stellar-blockchain-cryptocurrency-fintech-meetup/)
 - [ETHChicago](https://www.ethchicago.xyz/)
 - [SatoshiFanClub](https://www.meetup.com/satoshifanclub/)
@@ -175,8 +173,6 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Founder's Therapy - Chicago](https://www.meetup.com/founder-s-therapy-chicago/)
 - [Gen Z VCs](https://www.genzvcs.com/) - Has Chicago chapter
 - [Inside the Loop](https://lu.ma/itl)
-- [OraView Fire for Solopreneurs](https://www.meetup.com/oravew-fire/)
-- [[R]elaunch](https://www.meetup.com/rmfs-chicago/)
 - [StartOut](https://startout.org/) - Has Chicago chapter
 - [Startup Hypeman](https://www.startuphypeman.com/)
 
@@ -209,6 +205,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago R-Ladies Group](https://www.meetup.com/rladies-chicago/)
 - [Chicago React Native Meetup](https://www.meetup.com/chicago-react-native-meetup/)
 - [Chicago Red Hat User Group](https://www.meetup.com/rhug-chicago/)
+- [Chicago Rust Meetup](https://www.meetup.com/chicago-rust-meetup/) - Discord
 - [Chicago Tech Community](https://www.linkedin.com/groups/14554472/)
 - [Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 - [Chicago Unreal Engine](https://www.meetup.com/chicago-unreal-engine-heroes/)
@@ -223,7 +220,6 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Cloud Security Alliance, Chicago Chapter](https://www.meetup.com/meetup-group-tyemzklu/)
 - [Codecademy + 100Devs Chicago Meetup](https://www.meetup.com/100devs-meetup-group/)
 - [Cyberjam](https://www.meetup.com/cyberjam/)
-- [Deep Dish Rust](https://www.meetup.com/deep-dish-rust/)
 - [Drupal Chicago](https://www.meetup.com/drupalchicago/)
 - [Ecommerce Technology | Customer Experience](https://www.meetup.com/digital-commerce-meetup-group/)
 - [Elastic Chicago User Group](https://www.meetup.com/elastic-chicago-user-group/)
@@ -246,7 +242,6 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
 - [Tech Salon Chicago](https://www.meetup.com/tech-salon-chicago/)
-- [The NHI Collective, Chicago](https://www.meetup.com/nhi-collective-chicago/)
 - [Ukranian IT Cluster](https://www.meetup.com/ukrainian-it-cluster/)
 - [UniForum Chicago](https://www.meetup.com/uniforum-chicago/)
 - [UX Book Club Chicago](https://www.meetup.com/uxchicago/)
