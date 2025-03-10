@@ -139,6 +139,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Couchbase Midwest](https://www.meetup.com/couchbase-midwest/)
 - [Creative AI](https://www.meetup.com/creativeai-chicago/)
 - [Data Science Institute, The University of Chicago](https://datascience.uchicago.edu/) - [Meetup Page](https://www.meetup.com/chicago-data-night/)
+- [GenAI Collective](https://lu.ma/genai-collective)
 - [IDEAL Institute](https://www.ideal-institute.org/)
 - [MeasureCamp Chicago](https://chicago.measurecamp.org/)
 - [MLOps Chicago](https://lu.ma/chicago-mlops)
