@@ -57,6 +57,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Blacks in Technology - Chicago Chapter](https://www.linkedin.com/showcase/bit-chicago/)
 - [Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
 - [Chicago Women in Tech](https://chiwomenintech.com/)
+- [Chicago Women Entrepreneurs Community | The Everboss](https://www.meetup.com/the-everboss-chicago-women-entrepreneurs-community/)
 - [Chicago Women UX Designers in Tech](https://www.meetup.com/chicago-women-ux-designers-in-tech/)
 - [FinTech Women](https://www.nycfintechwomen.com/events) - It does not appear there's a specific Chicago section, but check the events and there's some Chicago events from time to time
 - [Gen Z VCs](https://www.genzvcs.com/) - Has Chicago chapter
@@ -169,6 +170,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [Chicago Lean Startup Circle](https://www.meetup.com/chicagoleanstartup/)
 - [Chicago Startup Founder 101](https://www.meetup.com/chicago-startup-founder-101/)
 - [Chicago Startup and Tech Mixer](https://www.meetup.com/chicagotechmixer/)
+- [Chicago Women Entrepreneurs Community | The Everboss](https://www.meetup.com/the-everboss-chicago-women-entrepreneurs-community/)
 - [Founders Institute](https://fi.co/) - Has Chicago chapter
 - [Founders Network](https://foundersnetwork.com/mentoring-programs/chicago/)
 - [Founder's Therapy - Chicago](https://www.meetup.com/founder-s-therapy-chicago/)
@@ -182,6 +184,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [AWE Nite Chicago](https://www.meetup.com/awenitechicago/)
 - [AWS Chicago](https://www.chicagoaws.com/)
 - [Blacks United In Leading Technology - Chicago](https://www.meetup.com/blacks-united-in-leading-technology-chicago/)
+- [BrowserStack Software Testing meetup group - Chicago](https://www.meetup.com/browserstack-software-testing-meetup-group-chicago/)
 - [BurbSec: Chicagoland’s Largest Information Security Meetups!](https://www.meetup.com/burbsec/)
 - [Chi Hack Night](https://chihacknight.org/) - [Eventbrite page](https://www.eventbrite.com/o/chi-hack-night-2890910705)
 - [Chi4n6](https://www.meetup.com/chi4n6/)
