@@ -242,6 +242,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [P33 Chicago](https://p33chicago.com/)
 - [People of Color Code](https://www.peopleofcolorcode.com)
 - [ProductTank Chicagp](https://www.meetup.com/producttank-chicago/)
+- [ProductCamp Chicago](https://www.productcampchicago.com/)
 - [React Chicago](https://www.meetup.com/react-chicago/)
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
