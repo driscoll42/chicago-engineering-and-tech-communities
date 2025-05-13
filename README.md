@@ -2,7 +2,7 @@
 
 # Chicago Engineering and Tech Communities and Organizations
 
-Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago-focused! (However the [Awesome Tech Communities fork](https://github.com/MartinRosenberg/Awesome-Tech-Communities) is far more active and up to date than Dot's) A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech-focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in-person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings. There is a great calendar of Chicago-based events one can find at [Chicago Tech Community Events](https://chitechcommunityevents.softr.app/).
+Inspired by [This Dot's Tech Community Slacks](https://github.com/thisdot/tech-community-slacks) but Chicago-focused! (However the [Awesome Tech Communities fork](https://github.com/MartinRosenberg/Awesome-Tech-Communities) is far more active and up to date than Dot's) A consolidated list of Chicago Engineering Communities and organizations. Please add any that you think are missing! Please note that any added should be engineering/tech-focused and in Chicago, or at least have a substantial Chicago subcommunity. For Meetups, they should have in-person Chicago events, rather than just being only online events with a "Chicago" chapter which exists to get in search listings. There is a great calendar of Chicago-based events one can find at [Chicago Tech Community Events](https://chiirl.com/)).
 
 ## Navigation
 
