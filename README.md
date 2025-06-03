@@ -71,6 +71,7 @@ Generally organizations focused on promoting diversity of identities in various 
 - [Out In Tech](https://outintech.com/) - Has Chicago chapter
 - [P33 Chicago](https://p33chicago.com/)
 - [People of Color Code](https://www.peopleofcolorcode.com/) - Chicago based, slack channel and in-person meetups
+- [Rewriting The Code](https://rewritingthecode.org/) - Has a Chicago Chapter/slack channel
 - [Society of Hispanic Professional Engineers (SHPE) - Region 6](https://shpe.org/membership/regions/region-6/)
 - [Society of Women Engineers (SWE) - Chicago](https://chicago.swe.org/)
 - [StartOut](https://startout.org/) - Has Chicago chapter
@@ -114,6 +115,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [MLOps](https://lu.ma/chicago-mlops) - Chicago Slack Channel
 - [mochachats.ai](https://join.slack.com/t/mochachats/shared_invite/zt-2o19asgzk-AvLIe2glc1o_K7cO_S23Tw) - Slack
 - [Open Code Chicago](https://www.meetup.com/chicago-open-hack/) - Discord
+- [Rewriting The Code](https://rewritingthecode.org/) - Chicago slack channel
 - [People of Color Code](https://www.peopleofcolorcode.com/) - Chicago Slack Channel
 - [Product Tank Chicago](https://join.slack.com/t/producttankchicago/shared_invite/zt-2zby4phqo-lo~9iE~5m7rudEtNBXL3Gg)
 - [Pumping Station One](https://pumpingstationone.org/) - Discord - Must be a member to join
@@ -248,6 +250,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [ProductTank Chicagp](https://www.meetup.com/producttank-chicago/)
 - [ProductCamp Chicago](https://www.productcampchicago.com/)
 - [React Chicago](https://www.meetup.com/react-chicago/)
+- [Rewriting The Code](https://rewritingthecode.org/)
 - [TechChicago](https://gotechchicago.com/events/)
 - [Tech In Motion](https://techinmotion.com/) - Has Chicago chapter
 - [Tech Salon Chicago](https://www.meetup.com/tech-salon-chicago/)
