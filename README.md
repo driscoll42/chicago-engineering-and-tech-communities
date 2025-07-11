@@ -128,6 +128,7 @@ The rest are all worth checking out to stay in touch with the Chicago community 
 - [AI 2030 Responsible Artificial Intelligence](https://www.meetup.com/ai-2030-responsible-artificial-intelligence/)
 - [AI at Work: Chicago](https://www.meetup.com/chicago-ai-at-work/)
 - [AI at Northwestern](https://ai.northwestern.edu/news-events/events/index.php)
+- [AI Collective - Chicago Chapter](https://www.aicollective.com/chapters/chicago)
 - [AI Tinkerers - Chicago](https://chicago.aitinkerers.org/)
 - [Chi Sub SQL User Group](https://www.meetup.com/chicago-suburban-sql-user-group/)
 - [Chicago AI/ML/Data Developers Group](https://www.meetup.com/aittg-chicago/)
